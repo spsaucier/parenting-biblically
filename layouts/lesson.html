@@ -1,6 +1,15 @@
 {{#extend "default"}}
   {{#content "main"}}
 
+    <div class="lesson-nav">
+      {{#if previous}}
+        <a class="prev" href="/{{{previous.url}}}">&larr; {{{previous.title}}}</a>
+      {{/if}}
+      {{#if next}}
+        <a class="next right" href="/{{{next.url}}}">{{{next.title}}} &rarr;</a>
+      {{/if}}
+    </div>
+
     <header class="tac">
       <h1>{{{this.title}}}</h1>
       <p class="attention-grabber">{{{this.description}}}</p>
@@ -9,9 +18,15 @@
 
     {{{contents}}}
 
+    <hr>
+
     <div class="lesson-nav">
-      <a class="prev" href="/{{{this.previous}}}">Previous</a>
-      <a class="next" href="/{{{this.next}}}">Next</a>
+      {{#if previous}}
+        <a class="prev" href="/{{{previous.url}}}">&larr; {{{previous.title}}}</a>
+      {{/if}}
+      {{#if next}}
+        <a class="next right" href="/{{{next.url}}}">{{{next.title}}} &rarr;</a>
+      {{/if}}
     </div>
 
   {{/content}}
