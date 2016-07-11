@@ -1,0 +1,18 @@
+{{#extend "default"}}
+  {{#content "main"}}
+
+    <header class="tac">
+      <h1>{{{this.title}}}</h1>
+      <p class="attention-grabber">{{{this.description}}}</p>
+    </header>
+    <hr>
+
+    {{{contents}}}
+
+    <div class="lesson-nav">
+      <a class="prev" href="/{{{this.previous}}}">Previous</a>
+      <a class="next" href="/{{{this.next}}}">Next</a>
+    </div>
+
+  {{/content}}
+{{/extend}}

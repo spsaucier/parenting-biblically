@@ -1,0 +1,21 @@
+
+{{#extend "default"}}
+  {{#content "main"}}
+    {{{contents}}}
+
+    <hr>
+    <h2 class="tac light">Course Lessons:</h2>
+    <ol class="lessons-list">
+      {{#each collections.lessons}}
+        <li>
+          <a href="/{{{ this.path }}}/" rel="bookmark">
+            <h3>{{this.title}}</h3>
+            <p>{{this.description}}</p>
+          </a>
+        </li>
+      {{/each}}
+      <li></li>
+    </ol>
+
+  {{/content}}
+{{/extend}}

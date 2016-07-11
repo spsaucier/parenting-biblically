@@ -1,0 +1,43 @@
+.header {
+
+}
+
+nav.main-menu {
+    margin: 0 -8px;
+    a {
+        display: inline-block;
+        padding: 8px;
+        font-size: 16px;
+        font-family: $headings-font-family;
+        font-style: italic;
+        font-weight: 100;
+    }
+    .logo {
+        float: left;
+        font-family: $big-font-family;
+        font-weight: 700;
+        font-size: 20px;
+        font-style: normal;
+        color: $gray-dark;
+        &:hover {
+            text-decoration: none;
+        }
+        em {
+            color: $brand-secondary;
+        }
+    }
+}
+
+@media (max-width: 560px) {
+    nav.main-menu {
+        text-align: center;
+        .logo {
+            display: block;
+            float: none;
+            font-size: 7vw;
+            line-height: 1;
+            margin-bottom: 0;
+            margin-top: 10px;
+        }
+    }
+}

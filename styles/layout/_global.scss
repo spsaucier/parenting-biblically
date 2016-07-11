@@ -1,0 +1,119 @@
+
+// Line-height & margin reset
+* {
+    @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
+        max-width: none;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+body {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-font-feature-settings: "liga" on;
+    color: $body-color;
+    background: $body-bg;
+}
+a,
+a:visited {
+    color: $link-color;
+}
+
+.tac {
+    text-align: center;
+}
+.tar {
+    text-align: right;
+}
+h1,
+h2,
+h3,
+h4 {
+    font-family: $headings-font-family;
+    &.mega {
+        font-family: $big-font-family;
+        font-size: 70px;
+        line-height: 1;
+        em {
+            color: $brand-secondary;
+        }
+    }
+    &.light {
+        font-weight: 300;
+    }
+}
+
+.lessons-list {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding-left: 0;
+    justify-content: center;
+    @media (min-width: 610px) {
+        justify-content: space-between;
+    }
+    padding-left: 0;
+    @media (min-width: 1060px) {
+        margin: 0 -150px;
+    }
+    li {
+        flex-basis: 340px;
+        background: #fff;
+        border-radius: 4px;
+        text-align: center;
+        margin-bottom: 10px;
+        display: -webkit-flex;
+        display: -ms-flex;
+        display: flex;
+        max-width: 100%;
+        transition: all .2s ease-out;
+        @media (min-width: 610px) {
+            flex-basis: 275px;
+        }
+        @media (min-width: 700px) {
+            flex-basis: 32%;
+        }
+        &:hover {
+            border-radius: 30px;
+        }
+        &:empty {
+            background: none;
+        }
+        a {
+            display: block;
+            color: $gray-dark;
+            flex-grow: 1;
+            padding: 20px;
+            margin-bottom: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            &:hover {
+                text-decoration: none;
+            }
+            &:visited {
+                h3 {
+                    color: $brand-secondary;
+                }
+            }
+        }
+        h3 {
+            display: block;
+            margin-top: 1rem;
+            margin-bottom: 10px;
+            font-family: $headings-font-family;
+            line-height: 1.1;
+            font-weight: 100;
+            font-size: 24px;
+            color: $brand-primary;
+        }
+        p {
+            line-height: 1.3;
+            font-style: italic;
+        }
+    }
+}
