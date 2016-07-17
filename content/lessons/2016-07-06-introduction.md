@@ -11,19 +11,23 @@ next: prerequisite-relationships
 previous: parenting-contract
 ---
 
-Behold, children are a gift of the LORD, the fruit of the womb is a reward. Like arrows in the hand of a warrior, so are the children of one's youth. How blessed is the man whose quiver is full of them. They will not be ashamed when they speak with their enemies in the gate.
-Ps 127:3-5 NASU
+> Behold, children are a gift of the LORD, the fruit of the womb is a reward. Like arrows in the hand of a warrior, so are the children of one's youth. How blessed is the man whose quiver is full of them. They will not be ashamed when they speak with their enemies in the gate.
+> <cite>Ps 127:3-5 NASU</cite>
 
-Memory Verse:
-Matthew 6:33 – “But seek first the kingdom of God and his righteousness, and all these things will be added to you.”
-Thought for the Week:  
+## Memory Verse:
+
+> “But seek first the kingdom of God and his righteousness, and all these things will be added to you.”
+> <cite>Matthew 6:33</cite>
+
+## Thought for the Week:  
+
 Family is who you will be forced to live with the rest of your life. Try to be someone whom you would love to be around.
 
 > The family you come from isn't as important as the family you're going to have.
 > -	Ring Lardner
 
+## Explanation of the Course:
 
-Explanation of the Course:
 * Importance. Experience in China. Culture, children and parents of today.
 * 10 weeks. Take Biblical teachings and apply it to daily life.
 * Homework. Expect handouts, note taking.
@@ -44,7 +48,8 @@ Explanation of the Course:
 > – John Wilmot
 
 
-Assumptions:
+## Assumptions:
+
 1. You, the parent, are a believer in Jesus Christ, relying totally on Him as Savior, having Him as your Lord. You can take the course without being saved, and it will have some value, but your children will likely eventually figure this out, and what is the value of raising your child properly when your eternity will be in Hell?
 2. The authority and inerrancy of scripture is assumed. As much as possible, we will use the Bible as our guide to choose what should and should not be done.
 3. Depravity of man—and children.
@@ -130,16 +135,16 @@ Children are your 2nd greatest human asset and need the commensurate level of in
 
 
 > Mother Nature, in her infinite wisdom, has instilled within each of us a powerful biological instinct to reproduce; this is her way of assuring that the human race, come what may, will never have any disposable income.
-> - Dave Barry
+> <cite>- Dave Barry</cite>
 
 > The quickest way for a parent to get a child's attention is to sit down and look comfortable.
-> - Lane Olinghouse
+> <cite>- Lane Olinghouse</cite>
 
 > Do not ask that your kids live up to your expectations. Let your kids be who they are, and your expectations will be in breathless pursuit.
-> - Robert Brault
+> <cite>- Robert Brault</cite>
 
 > The guys who fear becoming fathers don't understand that fathering is not something perfect men do, but something that perfects the man. The end product of child raising is not the child but the parent.
-> - Frank Pittman, Man Enough
+> <cite>- Frank Pittman, Man Enough</cite>
 
 > Children are our second chance to have a great parent-child relationship.
-> - Laura Schlessinger
+> <cite>- Laura Schlessinger</cite>

@@ -12,7 +12,7 @@ next: introduction
 
 # PARENTING POSITION AVAILABLE
 
-Mom, Mommy, Mama, Ma 			Dad, Daddy, Dada, Pa, Pop
+*Mom, Mommy, Mama, Ma* 	OR	*Dad, Daddy, Dada, Pa, Pop*
 
 ### JOB DESCRIPTION :
 
@@ -20,18 +20,18 @@ Long term, team players needed, for challenging, permanent work in an often chao
 
 ### RESPONSIBILITIES :
 
-Will be for the rest of your life.
-Must be willing to be hated, at least temporarily, until someone needs $10.
-Must be willing to bite tongue repeatedly.
-Must possess the physical stamina of a pack mule and be able to go from zero to 60 mph in three seconds flat in case, this time, the screams from the backyard are not someone just crying wolf.
-Must be willing to face stimulating technical challenges, such as small gadget repair, mysteriously sluggish toilets and stuck zippers.
-Must screen phone calls, maintain calendars and coordinate production of multiple homework projects.
-Must have ability to plan and organize social gatherings for clients of all ages and mental outlooks.
-Must be a willing to be indispensable one minute, an embarrassment the next.
-Must handle assembly and product safety testing of a half million cheap, plastic toys and battery operated devices.
-Must always hope for the best but be prepared for the worst.
-Must assume final, complete accountability for the quality of the end product (though this assumption is incorrect).
-Responsibilities also include clothing and dishwashing, floor maintenance and janitorial work throughout the facility.
+* Will be for the rest of your life.
+* Must be willing to be hated, at least temporarily, until someone needs $10.
+* Must be willing to bite tongue repeatedly.
+* Must possess the physical stamina of a pack mule and be able to go from zero to 60 mph in three seconds flat in case, this time, the screams from the backyard are not someone just crying wolf.
+* Must be willing to face stimulating technical challenges, such as small gadget repair, mysteriously sluggish toilets and stuck zippers.
+* Must screen phone calls, maintain calendars and coordinate production of multiple homework projects.
+* Must have ability to plan and organize social gatherings for clients of all ages and mental outlooks.
+* Must be a willing to be indispensable one minute, an embarrassment the next.
+* Must handle assembly and product safety testing of a half million cheap, plastic toys and battery operated devices.
+* Must always hope for the best but be prepared for the worst.
+* Must assume final, complete accountability for the quality of the end product (though this assumption is incorrect).
+* Responsibilities also include clothing and dishwashing, floor maintenance and janitorial work throughout the facility.
 
 ### POSSIBILITY FOR ADVANCEMENT & PROMOTION:
 
@@ -51,9 +51,10 @@ When you die, you give them whatever is left. (The oddest thing about this rever
 While no health or dental insurance, no pension, no tuition reimbursement, no paid holidays and no stock options are offered; this job supplies limitless opportunities for personal growth, unconditional love, and free hugs and kisses for life if you play your cards right.
 
 
-> "The trouble with parents is that by the time they are experienced, they are unemployed." — Author Unknown
+> "The trouble with parents is that by the time they are experienced, they are unemployed."
+> <cite>— Author Unknown</cite>
 
-It would seem that something which means poverty, disorder and violence every single day should be avoided entirely, but the desire to beget children is a natural urge. ~Phyllis Diller
+> It would seem that something which means poverty, disorder and violence every single day should be avoided entirely, but the desire to beget children is a natural urge.
+> <cite>— Phyllis Diller</cite>
 
-
-*There is no retirement—EVER!!
+*There is no retirement — EVER!!
