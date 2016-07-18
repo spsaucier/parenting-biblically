@@ -1,6 +1,6 @@
 ---
 title: Pre-requisite relationships
-url: prerequisite-relationships
+url: pre-requisite-relationships
 description: God first & healthy marriage
 collection: lessons
 paginate: lessons
@@ -33,7 +33,7 @@ You model God; you are very much like God to your children.  What does their God
 When your children see you loving God, serving God, especially in ministry, they will want to do the same.
 
 > “The voice of parents is the voice of gods, for to their children they are heaven's lieutenants.”
-<cite>-	William (Billy) Shakespeare</cite>
+<cite>--- William (Billy) Shakespeare</cite>
 
 #### Two “EE” questions:  
 
@@ -57,7 +57,7 @@ When your children see you loving God, serving God, especially in ministry, they
 
 2.  Moral training starts with morality and beliefs of the parents.  Parents must not only teach morality but also validate it by daily living.
 
-    Moral training should not be based on negatives — what not to do.  Even in conflict, reasons for righteousness should be taught; everything should be brought back to God and His holiness.  Negative moral training leads to works-salvation mentality and spiritual pride/”Phariseicalism”.  They must understand the "whys" of moral behavior — to bring glory to God.
+    Moral training should not be based on negatives — what not to do.  Even in conflict, reasons for righteousness should be taught; everything should be brought back to God and His holiness.  Negative moral training leads to works--salvation mentality and spiritual pride/"Phariseicalism”.  They must understand the "whys" of moral behavior — to bring glory to God.
 
     #### Love verses:
 
@@ -104,12 +104,14 @@ When your children see you loving God, serving God, especially in ministry, they
     <cite>Heb 10:14 - NKJV</cite>
 
     > “To bring up a child in the way he should go, travel that way yourself once in a while.”
-    <cite>-	Josh Billings</cite>
+    <cite>--- Josh Billings</cite>
+
+<hr>
 
 ## Priority 2: Biblical marriage
 
 > There is nothing nobler or more admirable than when two people who see eye to eye keep house as man and wife, confounding their enemies and delighting their friends.
-<cite>-	Homer</cite>
+<cite>--- Homer</cite>
 
 **Memory verse:**
 > “Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh.”  This mystery is profound, and I am saying that it refers to Christ and the church.
@@ -128,7 +130,7 @@ The crowning achievement of creation was holy marriage.  Our marriages mirror th
     Adam was not alone — God was with him.  But he did not have a suitable mate; he needed something to be complete as man is a social animal.  The other animals were not suitable, did not complement Adam.  In marriage, man and woman are complete; children are not a necessity.
 
     > “We only regard those unions as real examples of love and real marriages in which a fixed and unalterable decision has been taken. If men or women contemplate an escape, they do not collect all their powers for the task. In none of the serious and important tasks of life do we arrange such a "getaway." We cannot love and be limited.”
-    <cite>-	Alfred Adler</cite>
+    <cite>--- Alfred Adler</cite>
 
     In other words, “divorce” cannot be in the vocabulary of the Christian marriage.  It is not to be considered at any time.
 
@@ -142,10 +144,10 @@ The crowning achievement of creation was holy marriage.  Our marriages mirror th
     The marriage relationship is a type of that of Christ and the Church; it is essential.
 
     > “The real act of marriage takes place in the heart, not in the ballroom or church or synagogue. It's a choice you make - not just on your wedding day, but over and over again -- and that choice is reflected in the way you treat your husband or wife.”
-    <cite>-	Barbara De Angelis</cite>
+    <cite>--- Barbara De Angelis</cite>
 
     > “What you are as a single person, you will be as a married person, only to a greater degree. Any negative character trait will be intensified in a marriage relationship, because you will feel free to let your guard down -- that person has committed himself to you and you no longer have to worry about scaring him off.”
-    <cite>-	Josh McDowell</cite>
+    <cite>--- Josh McDowell</cite>
 
 3.  Any deviation from the biblical marriage has potentially severe effects on the family.  As the most basic unit of social man, marriage must be maintained — and healthy — for the family to work properly.
 
@@ -155,14 +157,14 @@ The crowning achievement of creation was holy marriage.  Our marriages mirror th
     <cite>Mal 2:14-16</cite>
 
     > “All married couples should learn the art of battle as they should learn the art of making love. Good battle is objective and honest--never vicious or cruel. Good battle is healthy and constructive, and brings to a marriage the principle of equal partnership.”
-    <cite>-	Ann Landers Says Truth Is Stranger..., 1968</cite>
+    <cite>--- Ann Landers Says Truth Is Stranger..., 1968</cite>
 
     > “The goal in marriage is not to think alike, but to think together.”
-    <cite>-	Robert C Dodds</cite>
+    <cite>--- Robert C Dodds</cite>
 
 4.  Children will only feel as secure as they believe their parent’s marriage to be.  They feel the love and affection between spouses, and it gives them great security.
     > “When there is harmony in the husband-wife relationship, there is an infused stability in the family.”
-    <cite>-	Ezzo</cite>
+    <cite>--- Ezzo</cite>
 
     A child will not feel safe and secure when he is worried about the central stabilizing force in his family, indeed, in his world.  They can perceive conflict vs. commitment at 2-3 years of age, long before they can understand any issues involved.  Low levels of insecurity develop in these children. They fear their world will collapse. Behaviors bear this out.
 
@@ -174,7 +176,7 @@ The crowning achievement of creation was holy marriage.  Our marriages mirror th
 * Show hospitality.  Inviting others over not only is godly but also obligates the family to be at their best form, to behave as they know they should.  Just as you clean house before entertaining, everyone will be at their best behavior.
 
 > “The most important thing a father can do for his children is to love their mother.”
-<cite>-	Theodore Hesburgh</cite>
+<cite>--- Theodore Hesburgh</cite>
 
 
 #### Submit to one another out of reverence for Christ.
@@ -203,6 +205,7 @@ Child-centered parenting, where parents focus on their children more than their 
 
 Make conscious efforts to maintain the marriage relationship before, during, and after child-raising.  We strongly suggest repeated, active investment into the marriage in order to remain happy, raise happy children, and please God.
 
+<hr>
 
 ## Questions:
 
@@ -224,10 +227,10 @@ Make conscious efforts to maintain the marriage relationship before, during, and
 5. Observe home activities, looking especially for behaviors that are child-centered.  Write these down, as well as ways to change these behaviors, for discussion next week.
 
 > “After all these years, I see that I was mistaken about Eve in the beginning; it is better to live outside the Garden with her than inside it without her.”
-> <cite>-	Mark Twain</cite>
+> <cite>--- Mark Twain</cite>
 
 > “One of the great illusions of our time is that love is self-sustaining. It is not. Love must be fed and nurtured, constantly renewed. That demands ingenuity and consideration, but first and foremost, it demands time.”
-> <cite>-	David Mace</cite>
+> <cite>--- David Mace</cite>
 
 > “Each one of you also must love his wife as he loves himself, and the wife must respect her husband.”
 > <cite>Eph. 5:33</cite>

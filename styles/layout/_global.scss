@@ -59,6 +59,15 @@ ul li {
 // figure blockquote p {
 //     font-family: $headings-font-family;
 // }
+cite {
+    font-size: 14px;
+}
+
+.lesson-nav {
+    a:visited {
+        color: $brand-secondary;
+    }
+}
 
 .lessons-list {
     display: -webkit-flex;
@@ -74,6 +83,11 @@ ul li {
     padding-left: 0;
     @media (min-width: 1060px) {
         margin: 0 -150px;
+    }
+    &:hover {
+        li:not(:hover) {
+            background: #f9f9f9;
+        }
     }
     li {
         flex-basis: 340px;
@@ -93,7 +107,7 @@ ul li {
             flex-basis: 32%;
         }
         &:hover {
-            border-radius: 30px;
+            background: #fff;
         }
         &:empty {
             background: none;

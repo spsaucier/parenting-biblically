@@ -7,8 +7,8 @@ paginate: lessons
 layout: lesson.html
 date: 2016-07-06
 draft: false
-next: prerequisite-relationships
-previous: parenting-contract
+next: pre-requisite-relationships
+previous: foreword-the-job-contract
 ---
 
 > Behold, children are a gift of the LORD, the fruit of the womb is a reward. Like arrows in the hand of a warrior, so are the children of one's youth. How blessed is the man whose quiver is full of them. They will not be ashamed when they speak with their enemies in the gate.

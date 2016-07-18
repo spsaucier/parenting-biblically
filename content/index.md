@@ -1,7 +1,7 @@
 ---
-title: Index
+title: Parenting Biblically
 url: /
-description: Index Page
+description: A free course for Christian Parents, based on the Bible
 layout: index.html
 permalink: false
 function: home

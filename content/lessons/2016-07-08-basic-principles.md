@@ -8,138 +8,206 @@ layout: lesson.html
 date: 2016-07-08
 draft: false
 next: upward-respect
-previous: prerequisite-relationships
+previous: pre-requisite-relationships
 ---
 
-Behold, children are a gift of the LORD, the fruit of the womb is a reward. Like arrows in the hand of a warrior, so are the children of one's youth. How blessed is the man whose quiver is full of them. They will not be ashamed when they speak with their enemies in the gate.
-Ps 127:3-5 NASU
+> “Making the decision to have a child is momentous. It is to decide forever to have your heart go walking around outside your body.”
+<cite>--- Elizabeth Stone</cite>
 
-Memory Verse:
-Matthew 6:33 – “But seek first the kingdom of God and his righteousness, and all these things will be added to you.”
-Thought for the Week:  
-Family is who you will be forced to live with the rest of your life. Try to be someone whom you would love to be around.
+#### Memory verse:
+> The law of the LORD is perfect,<br>
+reviving the soul.
+>
+> The statutes of the LORD are trustworthy,<br>
+making wise the simple.
+>
+> The precepts of the LORD are right,<br>
+giving joy to the heart.
+>
+> The commands of the LORD are radiant,<br>
+giving light to the eyes.
+>
+> The fear of the LORD is pure,<br>
+enduring forever.
+>
+> The ordinances of the LORD are sure<br>
+and altogether righteous.
+<cite>Ps 19:7-9 - NIV</cite>
 
-> The family you come from isn't as important as the family you're going to have.
-> -	Ring Lardner
+**This week’s principle**: There is not one principle but several.  Sorry if you’re OCD.  Be flexible.   (Maybe that should be the principle: be flexible…)
 
+Some basic biblical principles:
+* **We are to teach & train our children:**
+    > Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up.
+    <cite>Deut 6:7 - NIV</cite>
 
-Explanation of the Course:
-* Importance. Experience in China. Culture, children and parents of today.
-* 10 weeks. Take Biblical teachings and apply it to daily life.
-* Homework. Expect handouts, note taking.
-* Completed notes for those who cannot come.
-* 3 premises:
-    1. The goal of Biblical parenting is to raise a morally responsible and biblically responsive child; we cannot save our children, but we should do all that we possibly can to lead them to a true understanding of Jesus’ and the Gospel.
-    2. The Bible does not provide us with exact details about raising children. This course is not intended to be all-inclusive but to teach principles to be used in parenting.
-    3. All child-raising principles used must bring glory to God and not run contrary to biblical theology. (Some things are non-biblical but not un-biblical.)
-* Tripp says a biblical vision for the parenting tasks is multifaceted; it involves being authorities who are kind, shepherding your children to understand themselves in God’s world, and keeping the gospel in clear view so your children can internalize the good news and someday live in mutuality with you as people under God. (p. xvii)
-* Texts:
-    * Growing Kids God’s Way by Gary & Anne Marie Ezzo (course structured on this book)
-    * Shepherding a Child’s Heart by Ted Tripp
-    * The Key to Your Child’s Heart by Gary Smalley
-    * Dare to Discipline; Bringing Up Boys by Dobson.
+    > Train a child in the way he should go, and when he is old he will not turn from it.
+    <cite>Prov 22:6 - NIV</cite>
 
+* **Provide for them:**
+    > Now I am ready to visit you for the third time, and I will not be a burden to you, because what I want is not your possessions but you. After all, children should not have to save up for their parents, but parents for their children.
+    <cite>2 Cor 12:14 - NIV</cite>
 
-> “Before I got married I had six theories about bringing up children; now I have six children, and no theories.”
-> – John Wilmot
+* **Provide a good example (and avoid a bad one):**
+    > I have been reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also.
+    <cite>2 Tim 1:5 - NIV</cite>
 
+    > Instead, they have followed the stubbornness of their hearts; they have followed the Baals, as their fathers taught them."
+    <cite>Jer 9:14 - NIV</cite>
 
-Assumptions:
-1. You, the parent, are a believer in Jesus Christ, relying totally on Him as Savior, having Him as your Lord. You can take the course without being saved, and it will have some value, but your children will likely eventually figure this out, and what is the value of raising your child properly when your eternity will be in Hell?
-2. The authority and inerrancy of scripture is assumed. As much as possible, we will use the Bible as our guide to choose what should and should not be done.
-3. Depravity of man—and children.
-    * Gen 8:21 - The LORD smelled the pleasing aroma and said in his heart: "Never again will I curse the ground because of man, even though every inclination of his heart is evil from childhood. (NIV)
-    * Ps 58:3 - These wicked people are born sinners; even from birth they have lied and gone their own way. (NLT)
-    * Ps 51:5 - Surely I was sinful at birth, sinful from the time my mother conceived me. NIV
-    * Jer 17:9 - The heart is more deceitful than all else and is desperately sick; who can understand it? (NASU)
-    * Rom 3:10 - There is no one righteous, not even one;   11 there is no one who understands,  no one who seeks God. 12 All have turned away, they have together become worthless; there is no one who does good, not even one.  (NIV)  (Ps 14:1-3; 53:1-3)
+    > He too walked in the ways of the house of Ahab, for his mother encouraged him in doing wrong.
+    <cite>2 Chron 22:3 - NIV</cite>
 
-4. Babies are not sweet and innocent at birth.
-    * Psalm 51:5 "Surely I was sinful at birth, sinful from the time my mother conceived me!"  
-    * Genesis 8:21 "Every inclination of his heart is evil from childhood."
-    * "Every baby starts life as a little savage. He is completely selfish and self-centered: he wants what he wants--his bottle, his mother's attention, his playmate's toys, his uncle's watch, or whatever. Deny him these and he seethes with rage and aggressiveness which would be murderous were he not so helpless. He is dirty; he has no morals, no knowledge and no developed skills. This means that all children, not just certain children, but all children are born delinquent. If permitted to continue in their self-centered world of infancy, given free reign to their impulsive actions to satisfy each want--every child would grow up a criminal, a killer, a thief, and a rapist." (Reb Bradley, "Biblical Insights into Child Training")
-    * "Remember that children are born with a decided bias toward evil, and therefore if you let them choose for themselves, they are certain to choose wrong. The mother cannot tell what her tender infant may grow up to be--tall or short, weak or strong, wise or foolish--all is uncertain. But one thing the mother can say with certainty--he will have a corrupt and sinful heart! It is natural for us to do wrong. Our hearts are like the earth on which we tread--let it alone, and it is sure to bear weeds!"  (J. C. Ryle)
+* **To teach them control and respect:**
+    > He must manage his own family well and see that his children obey him with proper respect.
+    <cite>1 Tim 3:4 - NIV</cite>
 
-We seek to train the heart, not just behavior. God wants the heart, He wants a relationship, and only this will bring about permanent behaviors.
-* Prov. 4:23 – “Above all else, guard your heart, for it is the wellspring of life.”
-* Mark 7:21  “…from within, out of men’s hearts, come evil thoughts, sexual immorality, theft, murder, adultery, greed, malice, deceit, lewdness, envy, slander, arrogance and folly.”  The heart determines behavior.
-* Shorter Catechism says, “The chief end of man is to glorify God and to enjoy Him forever.” When we make that the ultimate goal of our parenting, it changes our parenting theory and techniques. If we teach them to use their abilities, aptitudes, talents and intelligence to make their lives better, without reference to God, we turn them away from God. Examples: “We pander to their desires and wishes. We teach them to find their soul’s delight in going places and doing things. We attempt to satisfy their lust for excitement. We fill their young lives with distractions from God. We provide material things and take delight in their delight in possessions. Then we hope that somewhere along down the line they will see that a life worth living is found only in knowing and serving God…We are training them in the idolatry of materialism…No wonder we lose our kids. We lose them because we fail to think clearly about man’s chief end, to glorify God and enjoy Him forever…therefore, your objective in every context must be to set a biblical world-view before your children.” (Tripp, p. 47-48)
+    > Even a child is known by his actions, by whether his conduct is pure and right.
+    <cite>Prov 20:11 - NIV</cite>
 
-> “Each day of our lives we make deposits in the memory banks of our children.”
-> - Charles R. Swindoll
+    > Children, obey your parents in the Lord, for this is right. "Honor your father and mother"-which is the first commandment with a promise- "that it may go well with you and that you may enjoy long life on the earth.”
+    <cite>Eph 6:1-3 - NIV</cite>
 
-> “It's not only children who grow. Parents do too. As much as we watch to see what our children do with their lives, they are watching us to see what we do with ours. I can't tell my children to reach for the sun. All I can do is reach for it myself.”
-> - Joyce Maynard
+    > For I told him that I would judge his family forever because of the sin he knew about; his sons made themselves contemptible, and he failed to restrain them.
+    <cite>1 Sam 3:13 - NIV</cite>
 
-Hopefully, the greatest desire of our hearts as parents is that our child be saved. We cannot save our children, but we can present God to them so that they can see Him for who He is and allow God to work on them. Good parenting only happens by the grace of God. We are not adequate to be a father as the Good Father is to be our Father. We are sinful. We make bad mistakes. But God can overcome these and cause our children to be great, believing people. We do not seek to brainwash our kids. We have 2 choices: show them the God of the Bible or don’t. Which makes the most sense?
-
-Read: **1Ki 22:52**; **2Ch 22:3**; **Jer 9:14**. What parental influence do you see modeled here?
-
-From a behavioral perspective, our desire is not so much to control our children but to teach them self-control.  Our being in control is part of that. Adults think morally and then act accordingly; young children do not think morally initially (they act by imitation or need/desire) but must learn to act morally and then learn to think morally. Actions/behaviors are learned first, then right thinking comes from that.
-
-Parenting is probably our greatest role in life. If we bring other beings into this world, we bear some responsibility for their outcome. Parenting is full-time, 100%. It is tiring, frustrating, hard work. It will stretch and strain your marriage. It will bring some of your greatest struggles in life but also some of the greatest blessings.
-
-> “Life affords no greater responsibility, no greater privilege, than the raising of the next generation.”
-> - C. Everet Koop, M.D.
-
-> "If you bungle raising your children, I don't think whatever else you do well matters very much."
-> — Jacqueline Kennedy Onassis
+* **To love them:**
+    > Then they can train the younger women to love their husbands and children
+    <cite>Titus 2:4 - NIV</cite>
 
 
-### Parenting Extremes:
-We tend to parent by things that we learned growing up, be they good or bad. When we think of how our parents raised us during stressful times, we may have felt mistreated and, as a response, strongly parent in an opposite fashion.
+### Love
 
-Some parents feel that they were treated much too harshly and therefore desire to be very permissive and “loving” to their children. This allows the child to become self-centered and often leads to a child who makes decisions based on feelings instead of truth.
+**How to Communicate love (and what are “love-languages”):**
 
-Other parents who had a very permissive upbringing may realize that many of their problems and unhappiness might have been avoided by more regulation and may be too harsh and strict on a child.
-When these opposite people marry, they may have constant conflict in the home as they fight with each other over what style of parenting to use, each believing that they are right, that their duty is to compensate for the other’s “weaknesses”, and will “save” the child from their spouse. This is doomed to failure and brings disastrous results.
+Just as cultures communicate through different languages and behaviors, we all have different ways of best communicating and receiving love.  As husbands & wives benefit from knowing each other’s “language” preferences, we should also seek to know our children’s.  5 types by Gary Chapman:
+* **Words of Encouragement.**  Taking time & effort to verbally or in writing to recognize or encourage someone regarding their strengths and value.
+* **Acts of Service.**  Doing some task or act that you know that the other person will appreciate.  Showing love in actions.
+* **Gift-giving.**  Giving gifts to others, even small ones, that communicate that you are thinking of your loved one.
+* **Quality Time.**  Time invested in a loved one, not just time together in a room doing different tasks.  This is committed time.  Length does not matter as much as quality most if the time.
+* **Physical touch and Closeness.**  Not only touch (duh!) but closeness when doing different tasks communicates love to others.
 
-#### Two Extremes of Parenting (both incorrect):
-1. Authoritarian parenting. This was more prevalent in the early 20th century as people became concerned with restricting evil at the expense of teaching righteousness. This often leads to children who obeyed out of fear, not because they loved goodness and righteousness. This teaches children to behave just because they should…or else!
-2. Permissive parenting. This became more prevalent in the 60’s. This came out of thinking that man is good in nature (remember above?), that if placed in a loving environment, the child will learn and do right. These parents seek to be sure that he child feels well all the time, not that he is actually doing well. This teaches children to acts in whatever way makes him feel good.
+There are many forums out there to help you find out your love language. (http://www.5lovelanguages.com/assessments/; http://www.afo.net/hftw-lovetest.asp; http://edified.org/myspace/lovelanguage; http://www.selectsmart.com/FREE/select.php?client=5lovelanguages )  It is useful to know both your own and your spouse’s, then also your children’s language.  We often try to show love for others using our love language, but this may not translate well to the other person if their language is something completely different.  Knowing their language allows us to love them more like they would choose to be loved.  That said, we should love in every capacity, not limited to one or two. And we are commanded to love, even when our “love language” is not being spoken.
+
+Small children all like gifts, hugs, and time, but around age 7 (Ezzo), a particular language should be evident as their favorite.  These appear to be God-given personality traits and not learned priorities.  To best love someone, we need to know them—how they appreciate being loved, what ministers to them (not us), why our efforts sometimes appear to be unappreciated and we misunderstand the response.  It is often because we do not “push the right buttons.”  
+Study 1 Cor 13 in order to better understand what love is and is not.  Love often, especially as a parent, entails actions that may be painful to our children but are, truly, loving actions.  Just as God disciplines us out of love, we will sometimes cause pain for the sake of love when we discipline.
+
+### Fear
+
+**It is essential that they fear parental wrath just as we fear God’s.**
+
+Fear is a very rational, natural, and, very frequently, helpful response to actions by those with greater power, those in authority.  Your children should literally fear your wrath—not your hand, not your hug, not your person, but your wrath.  Consider the following examples:
+
+> The fear of the Lord is the beginning of wisdom; all those who practice it have a good understanding. His praise endures forever!  
+<cite>Ps 111:10 </cite>
+
+> They signaled to their partners in the other boat to come and help them. And they came and filled both the boats, so that they began to sink. But when Simon Peter saw it, he fell down at Jesus' knees, saying, “Depart from me, for I am a sinful man, O Lord.” ESV
+<cite>Lk 5:7-8 </cite>
+
+> But Jesus said, “Someone touched me, for I perceive that power has gone out from me.” 47 And when the woman saw that she was not hidden, she came trembling, and falling down before him declared in the presence of all the people why she had touched him, and how she had been immediately healed.  ESV  (Also, the fear of the Gerasenes when the evil spirit left the man, etc.)
+<cite>Lk 8:46 </cite>
+
+Jesus showed love for the Pharisees when he called them to task.  He would have lacked love if he did not confront their sin and pride.  He gave them what they needed to hear, even if it was unpleasant.
+It should be very clear to our children who is in authority. They should not fear our hand, our hugs, our love, etc., but know that we have the authority and mandate to show wrath when biblically indicated.
+
+TRUST: Trust in the family relationship is constant and essential.
+Trust for most children towards parents is easy—they trust the persons who feed them, hug them, dress them, give them shelter.  As they grow older, the trust begins to change as life is more complicated—they trust those who are consistent, who do not lie or mislead, those by whom they feel fully loved.  We must make sure that our children have no reason to doubt us—the world will have enough disappointment as it is.
+
+Mandates for parents to maintain trust:
+* Trust cannot be separated from God Himself & God’s word. As they grow older, they will need more objective truth to be evident in order to trust in your wisdom and decisions.  
+    > Your word is truth.
+    <cite>Jn 17:17b - NIV</cite>
+
+    >  But whoever lives by the truth comes into the light, so that it may be seen plainly that what he has done has been done through God."
+    <cite>John 3:21 - NIV</cite>
+
+    > Jesus answered, "I am the way and the truth and the life.
+    <cite>John 14:6 - NIV</cite>
+
+* Trust in parents is based on your trustworthiness; if you do not love your spouse, they will not see you as trustworthy.  This is a prerequisite to gaining/maintaining trust.  How can they trust you if you don’t love the one you promised to love for all your life?  Loving your spouse is an incredibly important demonstration of your trustworthiness. If you do not have a spouse, they must see you being trustworthy with other people with whom you are in close relationship.
+
+* Make the family a haven of trust.  Family is where we are mutually accepted and loved for who we are.  It entails loyalty and trust found nowhere else.  We must cultivate a Christ-centered family identity where we can freely be who we are, knowing that all are devoted to each other.  Work to build up a family identity.  If you are parenting alone, make your extended family that haven of trust if possible.
+
+* Seek to find out who your child is deep down inside so that you will not hurt their heart and break trust.  There are times when our children reveal their deepest thoughts and fears—be ready for those times, ready to talk and explore their inner world that they normally hide.  This is when you can really know your child.
+
+* Learn to watch your tongue and your tone.  Just as James says frequently, our tongue is a weapon which is easily and often carelessly wielded.  When a child approaches in wonder and cheer, be careful to never be harsh or angry, even when it is a difficult situation.  Instead, gently help them to understand what they have discovered may be harmful to them or something/someone else.  Try not to crush a tender spirit.
+
+    > ...but no one can tame the tongue. It is an uncontrollable evil, full of deadly poison.
+    <cite>James 3:8 - NLT</cite>
+
+* Let your children fail and not feel rejected.  We all fail—and frequently—in life, but we must let our children know that they are still in our good graces and loved when they have given good effort.  We live in a competitive culture, and winning is important, but doing their best is all we can ask and expect.  We should not let them be lazy or irresponsible, but there are undoubtedly times of failure, and they must know they are loved even more in those times.  It is crippling to believe that we cannot fail.  
+
+    > A bruised reed he will not break, and a smoldering wick he will not snuff out, till he leads justice to victory.
+    <cite>Matt 12:20 - NIV</cite>
+
+* Encourage your child!  This is what tells them they are loved and can be secure in their world.  This is not just in words but relationship.  Try to think of things that will encourage and build them up like you (hopefully) do to your spouse.  Spend special times, write notes or letters of encouragement, take special trips, take a few minutes of your busy day to play, always use words of encouragement.
+
+    > Therefore, encourage one another and build each other up, just as in fact you are doing.
+    <cite>1 Thess 5:11 - NIV</cite>
+
+* Give lots of physical contact.  You may think that this will be hard to do (especially you men), but once you have those little bundles, you will naturally be drawn to them.  Do not let this wane as they grow older—boys needs physical contact to know they are loved, and girls especially need their daddy’s hugs to satisfy the physical need for touch from men—better you than those boys!  If you do not fill the need, someone else will.
+
+    > “You may be deceived if you trust too much, but you will live in torment if you don't trust enough.”
+    <cite>--- Frank Crane</cite>
+
+    > “To be trusted is a greater compliment than to be loved.”
+    <cite>--- George MacDonald</cite>
 
 
 
-## Relevant Scriptures:
-* Prov 22:6 Train a child in the way he should go, and when he is old he will not turn from it. NIV
-* Prov 23:13 – “Do not withhold discipline from a child; if you punish him with the rod, he will not die. 14  Punish him with the rod and save his soul from death.” ( NIV)
-* Eph 6:4-(NIV) “Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.”  
-* Eph 6:4 (NLT)- “And now a word to you fathers. Don't make your children angry by the way you treat them. Rather, bring them up with the discipline and instruction approved by the Lord.”  
-* Eph 6:4 (NKJV)– “And you, fathers, do not provoke your children to wrath, but bring them up in the training and admonition of the Lord.”  
+### Issues of Conscience
 
-What is the easiest way to frustrate someone?  Be inconsistent, don’t let them have any idea how you will behave, don’t let them know what to expect. We will not frustrate our children if we are consistent in everything—which is hard!  (Holiday Inn ad: The best surprise is NO surprise!)
+Conscience is a God-given moral faculty of man.  It is referred to as the “heart” (860 times) in the Old Testament and conscience in the New (19 times).  1 Tim 4:2 states that our consciences can be seared and made defective, callused, unresponsive.  The conscience appears to have 2 basic parts, one which is primary (instinctive) and common to all man, and the other which is based on what is learned about God (moral).
 
-Children are your 2nd greatest human asset and need the commensurate level of investment. We spend so much time planning our worldly investments, to make them last, to get the most out of them, but they are only temporal. Shouldn’t we be even more concerned about our children’s future?
+The primary conscience is noted in Romans chapters one & two.
+> But God shows his anger from heaven against all sinful, wicked people who push the truth away from themselves.   For the truth about God is known to them instinctively. God has put this knowledge in their hearts. From the time the world was created, people have seen the earth and sky and all that God made. They can clearly see his invisible qualities — his eternal power and divine nature. So they have no excuse whatsoever for not knowing God.
+<cite>Rom 1:18-20 - NLT</cite>
 
+> Even when Gentiles, who do not have God's written law, instinctively follow what the law says, they show that in their hearts they know right from wrong. They demonstrate that God's law is written within them, for their own consciences either accuse them or tell them they are doing what is right.
+<cite>Rom 2:14-15 - NLT</cite>
+
+The moral conscience is learned or trainable and develops over time.  It is learned by studying the Word of God.  Teach first the behavior, then the moral behind it.
+
+> I have hidden your word in my heart that I might not sin against you.
+<cite>Ps 119:11 - NIV</cite>
+
+>  Accept instruction from his mouth and lay up his words in your heart.
+ <cite>Job 22:22- NIV</cite>
+
+> When your words came, I ate them; they were my joy and my heart's delight,
+for I bear your name, O LORD God Almighty.
+<cite>Jer 15:16 - NIV</cite>
+
+We learn morals as children from what we see our parents do, from what they say, and from the rest of the world around us.  It is quite common and easy to wrongly train a child.  It is imperative to be who we know God wants us to be and to teach our children from scripture what is right and moral.
+Ezzo divides the discussion of moral conscience into 4 parts: the moral warehouse, the 4 activities of the conscience, the moral search, and positive and prohibitive training.
+
+* **The moral warehouse** simply refers to how our morals are stored—packed away in our brains (not our hearts) to be used at a later time, when needed.  This portion is learned initially from the parents (as in Deut).  We will refer back to morals that we have learned when we need to make a moral decision.
+* **4 “activities”**: two are negative, 2 positive; 2 are before action, 2 after.  Simply put, 2 negative sides of the conscience are “warning”, before an action, and “guilt”, after failure to act morally.  (I feel there is way too little guilt in our society today; it has a very useful purpose.)  2 positive activities are “prompting” to act morally, and “confirmation” of having done so.
+* **The search mechanism** is simply that when we are confronted by a moral decision, we must search our conscience to find which principles fit the situation in order to act accordingly.  If we do not have the proper, Godly principles in our mind/conscience, we cannot make right choices.
+* **Training the conscience**: prohibitive and positive.  Prohibitive training focuses on the “do not’s” and is used first.  Positive must follow this, giving reasons why we have the morals and beliefs that we do.  Without positive training, life becomes a series of “don’ts”, and children grow up with rules they don’t understand.  Ezzo suggests beginning teaching children at age 3-4 using positive techniques; we think it never hurts to begin essentially as soon as they understand speech.  (It may only waste some breath!)  Prohibitive only leads to manipulation of the child, making him fear losing the love of the parent, feeling guilt, fearing punishment, and rejection.  Teaching them the why helps them to know God and understand the real reason why we behave the way we do.
+
+    > “Labor to keep alive in your breast that little spark of celestial fire, called conscience.”
+    <cite>--- George Washington</cite>
+
+    > “Never do anything against conscience, even if the state demands it.”
+    <cite>--- A. Einstein</cite>
+
+    > “Clear conscience never fears midnight knocking.”
+    <cite>--- Chinese Proverb</cite>
+
+<hr>
 
 ## Questions:
-1. What do you really want to achieve by studying parenting, by taking this course?
-2. Why is it so easy to get sidetracked with behavior when issues of the heart are clearly so much more important?
+1.	Can you tell us about an experience when you tried to show love to someone in your love language (or vice-versa) and they did not appreciate it?  
+2.	What characteristics of a person enable you to trust them?  Do you incorporate these into your parenting?
+3.	Is your family a safe place to try and fail?  Where others know and care about you and your hopes & dreams?
+4.	What are some specific ways you can encourage your child in their current situation?
+5.	Can you remember a time when your parent hurt you by a harsh answer?  How can you prevent yourself from doing this?
+6.	Can you think of some ways your parents used negative and positive training?
 
-3. What is wrong with a change in behavior without a change in the heart?
-4. What are your life goals in regard to your children?  When you look at how you spend your time now, does this jive with your goals that you just stated?  How do you fail, and what can you change to better fulfill those goals?
-
-5. How do you rate parenting in regard to other problems in our society?
-6. What are some of the most egregious parenting techniques you have witnessed?  Why are they so horrible?
-
-
-## Homework:
-1. Discuss with your spouse (or, if spouse not available, a friend/mentor) your goals in taking this course as well as goals in parenting. Be ready to discuss this next week.
-2. In what other ways does the concept of the depravity of man affect your thinking and viewpoints?
-3. What things exasperate or frustrate you?
+## Homework:  
+Find out your, your spouse’s, and your children’s love language this week, and try loving them in that fashion.  Have fun with it!  Tell us your results.  Write the languages down where you can save them and refer to them later.
 
 
-> Mother Nature, in her infinite wisdom, has instilled within each of us a powerful biological instinct to reproduce; this is her way of assuring that the human race, come what may, will never have any disposable income.
-> - Dave Barry
-
-> The quickest way for a parent to get a child's attention is to sit down and look comfortable.
-> - Lane Olinghouse
-
-> Do not ask that your kids live up to your expectations. Let your kids be who they are, and your expectations will be in breathless pursuit.
-> - Robert Brault
-
-> The guys who fear becoming fathers don't understand that fathering is not something perfect men do, but something that perfects the man. The end product of child raising is not the child but the parent.
-> - Frank Pittman, Man Enough
-
-> Children are our second chance to have a great parent-child relationship.
-> - Laura Schlessinger
+> “You don't really understand human nature unless you know why a child on a merry-go-round will wave at his parents every time around - and why his parents will always wave back.”
+<cite>--- William D. Tammeus</cite>

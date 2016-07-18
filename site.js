@@ -34,7 +34,7 @@ module.exports = {
       "metalsmith-collections": {
         "lessons": {
           "sortBy": "date",
-          "reverse": true
+          "reverse": false
         }
       },
       "metalsmith-pagination": {

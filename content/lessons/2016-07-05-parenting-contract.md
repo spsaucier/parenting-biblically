@@ -1,6 +1,6 @@
 ---
-title: The Parenting Job Contract
-url: parenting-job-contract
+title: Foreword - The Job Contract
+url: foreword-the-job-contract
 description: It's a thankless position.
 collection: lessons
 paginate: lessons
@@ -10,15 +10,15 @@ draft: false
 next: introduction
 ---
 
-# PARENTING POSITION AVAILABLE
+## PARENTING POSITION AVAILABLE
 
 *Mom, Mommy, Mama, Ma* 	OR	*Dad, Daddy, Dada, Pa, Pop*
 
-### JOB DESCRIPTION :
+#### JOB DESCRIPTION :
 
 Long term, team players needed, for challenging, permanent work in an often chaotic  environment. Candidates must possess excellent communication and organizational skills and be willing to work variable hours, which will include evenings and weekends and frequent 24 hour shifts on call. Some overnight travel required, including trips to primitive camping sites on rainy weekends and endless sports tournaments in far away cities. Travel expenses not reimbursed. Extensive driver/courier duties also required.
 
-### RESPONSIBILITIES :
+#### RESPONSIBILITIES :
 
 * Will be for the rest of your life.
 * Must be willing to be hated, at least temporarily, until someone needs $10.
@@ -33,20 +33,20 @@ Long term, team players needed, for challenging, permanent work in an often chao
 * Must assume final, complete accountability for the quality of the end product (though this assumption is incorrect).
 * Responsibilities also include clothing and dishwashing, floor maintenance and janitorial work throughout the facility.
 
-### POSSIBILITY FOR ADVANCEMENT & PROMOTION:
+#### POSSIBILITY FOR ADVANCEMENT & PROMOTION:
 
 None. Your job is to remain in the same position for years, without complaining, constantly retraining and updating your skills, so that those in your charge can ultimately surpass you.
 
-### PREVIOUS EXPERIENCE:
+#### PREVIOUS EXPERIENCE:
 
 None required (unfortunately). On-the-job training offered on a continually exhausting basis.
 
-### WAGES AND OTHER FINANCIAL COMPENSATION* :
+#### WAGES AND OTHER FINANCIAL COMPENSATION* :
 
 None; you pay them, including offering frequent raises and bonuses. Balloon payments are due when they turn 18 because of the assumption that college will help them become financially independent, and again if marriage is taken as an option.
 When you die, you give them whatever is left. (The oddest thing about this reverse-salary scheme is that you actually enjoy it and wish you could only do more. )
 
-### BENEFITS :
+#### BENEFITS :
 
 While no health or dental insurance, no pension, no tuition reimbursement, no paid holidays and no stock options are offered; this job supplies limitless opportunities for personal growth, unconditional love, and free hugs and kisses for life if you play your cards right.
 
