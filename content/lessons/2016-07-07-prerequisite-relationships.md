@@ -11,12 +11,9 @@ next: basic-principles
 previous: introduction
 ---
 
-## Priorities One and Two: Your Relationships with God and Your Spouse
+## Priority 1: Your Relationship with God
 
-
-### Your Relationship to God
-
-If you do not love God with all your heart, with all you mind, and with all your soul, your children will recognize this.  They know you how you truly are, not how others in the community see you.  Our culture teaches us to be on our best behavior when out in public, but when we are home, we can relax and “be ourselves”.  You cannot hide from your children; they are not nearly as naïve as you might think.
+If you do not love God with all your heart, with all your mind, and with all your soul, your children will recognize this.  They know you how you truly are, not how others in the community see you.  Our culture teaches us to be on our best behavior when out in public, but when we are home, we can relax and “be ourselves”.  You cannot hide from your children; they are not nearly as naïve as you might think.
 
 **Memory verse:** Deut 6:5 (below).
 
@@ -36,7 +33,7 @@ You model God; you are very much like God to your children.  What does their God
 When your children see you loving God, serving God, especially in ministry, they will want to do the same.
 
 > “The voice of parents is the voice of gods, for to their children they are heaven's lieutenants.”
-<cite>(Billy) Shakespeare</cite>
+<cite>-	William (Billy) Shakespeare</cite>
 
 #### Two “EE” questions:  
 
@@ -65,7 +62,7 @@ When your children see you loving God, serving God, especially in ministry, they
     #### Love verses:
 
     > Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It is not rude, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.
-    </cite>1 Cor 13:4-7 - NIV</cite>
+    <cite>1 Cor 13:4-7 - NIV</cite>
 
     > Dear friends, let us continue to love one another, for love comes from God.
     <cite>1 John 4:7 - NLT</cite>
@@ -79,7 +76,8 @@ When your children see you loving God, serving God, especially in ministry, they
     > For this very reason, make every effort to add to your faith goodness; and to goodness, knowledge; and to knowledge, self-control; and to self-control, perseverance; and to perseverance, godliness; and to godliness, brotherly kindness; and to brotherly kindness, love. For if you possess these qualities in increasing measure, they will keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ.
     <cite>2 Peter 1:5-8 - NIV</cite>
 
-    > But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God's holy people. 4 Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving. <cite>Eph 5:3 - NIV</cite>
+    > But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God's holy people. 4 Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving.
+    <cite>Eph 5:3 - NIV</cite>
 
 3. Biblical teaching and moral training should be taught at all times and activities during the day, especially at non-stressful, normal times. Your beliefs should be evident to all around you.
 
@@ -106,12 +104,12 @@ When your children see you loving God, serving God, especially in ministry, they
     <cite>Heb 10:14 - NKJV</cite>
 
     > “To bring up a child in the way he should go, travel that way yourself once in a while.”
-    <cite>Josh Billings</cite>
+    <cite>-	Josh Billings</cite>
 
-## Biblical marriage
+## Priority 2: Biblical marriage
 
 > There is nothing nobler or more admirable than when two people who see eye to eye keep house as man and wife, confounding their enemies and delighting their friends.
-<cite>Homer</cite>
+<cite>-	Homer</cite>
 
 **Memory verse:**
 > “Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh.”  This mystery is profound, and I am saying that it refers to Christ and the church.
@@ -130,7 +128,7 @@ The crowning achievement of creation was holy marriage.  Our marriages mirror th
     Adam was not alone — God was with him.  But he did not have a suitable mate; he needed something to be complete as man is a social animal.  The other animals were not suitable, did not complement Adam.  In marriage, man and woman are complete; children are not a necessity.
 
     > “We only regard those unions as real examples of love and real marriages in which a fixed and unalterable decision has been taken. If men or women contemplate an escape, they do not collect all their powers for the task. In none of the serious and important tasks of life do we arrange such a "getaway." We cannot love and be limited.”
-    <cite>Alfred Adler</cite>
+    <cite>-	Alfred Adler</cite>
 
     In other words, “divorce” cannot be in the vocabulary of the Christian marriage.  It is not to be considered at any time.
 
@@ -144,10 +142,10 @@ The crowning achievement of creation was holy marriage.  Our marriages mirror th
     The marriage relationship is a type of that of Christ and the Church; it is essential.
 
     > “The real act of marriage takes place in the heart, not in the ballroom or church or synagogue. It's a choice you make - not just on your wedding day, but over and over again -- and that choice is reflected in the way you treat your husband or wife.”
-    <cite>Barbara De Angelis</cite>
+    <cite>-	Barbara De Angelis</cite>
 
     > “What you are as a single person, you will be as a married person, only to a greater degree. Any negative character trait will be intensified in a marriage relationship, because you will feel free to let your guard down -- that person has committed himself to you and you no longer have to worry about scaring him off.”
-    <cite>Josh McDowell</cite>
+    <cite>-	Josh McDowell</cite>
 
 3.  Any deviation from the biblical marriage has potentially severe effects on the family.  As the most basic unit of social man, marriage must be maintained — and healthy — for the family to work properly.
 
@@ -156,15 +154,15 @@ The crowning achievement of creation was holy marriage.  Our marriages mirror th
     > But you say, “Why does he not? [accept my offering to the Lord]” Because the Lord was witness between you and the wife of your youth, to whom you have been faithless, though she is your companion and your wife by covenant. Did he not make them one, with a portion of the Spirit in their union?  And what was the one God seeking?  Godly offspring. So guard yourselves in your spirit, and let none of you be faithless to the wife of your youth. 16 “For the man who does not love his wife but divorces her,  says the Lord, the God of Israel, covers  his garment with violence, says the Lord of hosts. So guard yourselves in your spirit, and do not be faithless.”
     <cite>Mal 2:14-16</cite>
 
-    > “All married couples should learn the art of battle as they should learn the art of making love. Good battle is objective and honest--never vicious or cruel. Good battle is healthy and constructive, and brings to a marriage the principle of equal partnership.”  
-    <cite>Ann Landers Says Truth Is Stranger..., 1968</cite>
+    > “All married couples should learn the art of battle as they should learn the art of making love. Good battle is objective and honest--never vicious or cruel. Good battle is healthy and constructive, and brings to a marriage the principle of equal partnership.”
+    <cite>-	Ann Landers Says Truth Is Stranger..., 1968</cite>
 
     > “The goal in marriage is not to think alike, but to think together.”
-    <cite>Robert C Dodds</cite>
+    <cite>-	Robert C Dodds</cite>
 
 4.  Children will only feel as secure as they believe their parent’s marriage to be.  They feel the love and affection between spouses, and it gives them great security.
     > “When there is harmony in the husband-wife relationship, there is an infused stability in the family.”
-    <cite>Ezzo</cite>
+    <cite>-	Ezzo</cite>
 
     A child will not feel safe and secure when he is worried about the central stabilizing force in his family, indeed, in his world.  They can perceive conflict vs. commitment at 2-3 years of age, long before they can understand any issues involved.  Low levels of insecurity develop in these children. They fear their world will collapse. Behaviors bear this out.
 
@@ -176,7 +174,7 @@ The crowning achievement of creation was holy marriage.  Our marriages mirror th
 * Show hospitality.  Inviting others over not only is godly but also obligates the family to be at their best form, to behave as they know they should.  Just as you clean house before entertaining, everyone will be at their best behavior.
 
 > “The most important thing a father can do for his children is to love their mother.”
-<cite>Theodore Hesburgh
+<cite>-	Theodore Hesburgh</cite>
 
 
 #### Submit to one another out of reverence for Christ.
@@ -226,10 +224,10 @@ Make conscious efforts to maintain the marriage relationship before, during, and
 5. Observe home activities, looking especially for behaviors that are child-centered.  Write these down, as well as ways to change these behaviors, for discussion next week.
 
 > “After all these years, I see that I was mistaken about Eve in the beginning; it is better to live outside the Garden with her than inside it without her.”
-> <cite>Mark Twain</cite>
+> <cite>-	Mark Twain</cite>
 
 > “One of the great illusions of our time is that love is self-sustaining. It is not. Love must be fed and nurtured, constantly renewed. That demands ingenuity and consideration, but first and foremost, it demands time.”
-> <cite>David Mace</cite>
+> <cite>-	David Mace</cite>
 
 > “Each one of you also must love his wife as he loves himself, and the wife must respect her husband.”
 > <cite>Eph. 5:33</cite>
