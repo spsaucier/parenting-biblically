@@ -145,3 +145,17 @@ cite {
         }
     }
 }
+
+table {
+    width: 100%;
+    th {
+        font-size: 14px;
+    }
+    th, td {
+        padding: 5px;
+        text-align: center;
+    }
+    td:first-child {
+        font-style: italic;
+    }
+}

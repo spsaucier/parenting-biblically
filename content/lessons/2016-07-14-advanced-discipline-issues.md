@@ -7,139 +7,244 @@ paginate: lessons
 layout: lesson.html
 date: 2016-07-14
 draft: false
-next: appeals-and-family-building
-previous: consequences-and-punishment
+next: appeals-family-building
+previous: consequences-chastisement
 ---
 
-Behold, children are a gift of the LORD, the fruit of the womb is a reward. Like arrows in the hand of a warrior, so are the children of one's youth. How blessed is the man whose quiver is full of them. They will not be ashamed when they speak with their enemies in the gate.
-Ps 127:3-5 NASU
+#### Memory verse:
+> But now you must rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips. Do not lie to each other, since you have taken off your old self with its practices 10 and have put on the new self, which is being renewed in knowledge in the image of its Creator.
+>
+> Therefore, as God's chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience. Bear with each other and forgive whatever grievances you may have against one another. Forgive as the Lord forgave you. And over all these virtues put on love, which binds them all together in perfect unity.
+<cite>Col 3:8-14 - NIV</cite>
 
-Memory Verse:
-Matthew 6:33 – “But seek first the kingdom of God and his righteousness, and all these things will be added to you.”
-Thought for the Week:  
-Family is who you will be forced to live with the rest of your life. Try to be someone whom you would love to be around.
+**This week’s principle**: It is not the parent’s responsibility to make their child happy, but instead to teach godliness.
 
-> The family you come from isn't as important as the family you're going to have.
-> -	Ring Lardner
+### Discipline and age-related expectations
 
+Children are constantly rapidly growing in several different ways—vertically (height), horizontally, mentally, intellectually, emotionally, and spiritually.  Disciplining a child takes into consideration all of these things.  As a child seeks to grow in progressive stages, he will necessarily complete milestones before he can go on to the next phase.
 
-Explanation of the Course:
-* Importance. Experience in China. Culture, children and parents of today.
-* 10 weeks. Take Biblical teachings and apply it to daily life.
-* Homework. Expect handouts, note taking.
-* Completed notes for those who cannot come.
-* 3 premises:
-    1. The goal of Biblical parenting is to raise a morally responsible and biblically responsive child; we cannot save our children, but we should do all that we possibly can to lead them to a true understanding of Jesus’ and the Gospel.
-    2. The Bible does not provide us with exact details about raising children. This course is not intended to be all-inclusive but to teach principles to be used in parenting.
-    3. All child-raising principles used must bring glory to God and not run contrary to biblical theology. (Some things are non-biblical but not un-biblical.)
-* Tripp says a biblical vision for the parenting tasks is multifaceted; it involves being authorities who are kind, shepherding your children to understand themselves in God’s world, and keeping the gospel in clear view so your children can internalize the good news and someday live in mutuality with you as people under God. (p. xvii)
-* Texts:
-    * Growing Kids God’s Way by Gary & Anne Marie Ezzo (course structured on this book)
-    * Shepherding a Child’s Heart by Ted Tripp
-    * The Key to Your Child’s Heart by Gary Smalley
-    * Dare to Discipline; Bringing Up Boys by Dobson.
+Freedoms granted that are equal to a child’s level of self-control brings about developmental harmony.
 
+In adults, belief and thoughts precede actions; we think (hopefully!) before we act.  Children, especially young children, will act before they have belief systems in place.  This is why training starts with teaching moral behavior long before they understand the involved concepts.  Training first involves moral behavior, then moral concepts (though, of course, training each one is not exclusive).
 
-> “Before I got married I had six theories about bringing up children; now I have six children, and no theories.”
-> – John Wilmot
+### Child-raising and freedom.  
 
+Small children are not ready for and do not need extensive freedoms.  Too much freedom for a child teaches him that he is his own master.  It also may limit his future experiences as he may frequently choose the status quo, e.g., he chooses to eat only PB&J or Pizza.  This childish behavior, obviously, limits the child in many ways.
 
-Assumptions:
-1. You, the parent, are a believer in Jesus Christ, relying totally on Him as Savior, having Him as your Lord. You can take the course without being saved, and it will have some value, but your children will likely eventually figure this out, and what is the value of raising your child properly when your eternity will be in Hell?
-2. The authority and inerrancy of scripture is assumed. As much as possible, we will use the Bible as our guide to choose what should and should not be done.
-3. Depravity of man—and children.
-    * Gen 8:21 - The LORD smelled the pleasing aroma and said in his heart: "Never again will I curse the ground because of man, even though every inclination of his heart is evil from childhood. (NIV)
-    * Ps 58:3 - These wicked people are born sinners; even from birth they have lied and gone their own way. (NLT)
-    * Ps 51:5 - Surely I was sinful at birth, sinful from the time my mother conceived me. NIV
-    * Jer 17:9 - The heart is more deceitful than all else and is desperately sick; who can understand it? (NASU)
-    * Rom 3:10 - There is no one righteous, not even one;   11 there is no one who understands,  no one who seeks God. 12 All have turned away, they have together become worthless; there is no one who does good, not even one.  (NIV)  (Ps 14:1-3; 53:1-3)
+Children need to be in age-appropriate environments meaning they are allowed choices according to their age and ability to choose rightly.  This is like a hyperbolic curve:
 
-4. Babies are not sweet and innocent at birth.
-    * Psalm 51:5 "Surely I was sinful at birth, sinful from the time my mother conceived me!"  
-    * Genesis 8:21 "Every inclination of his heart is evil from childhood."
-    * "Every baby starts life as a little savage. He is completely selfish and self-centered: he wants what he wants--his bottle, his mother's attention, his playmate's toys, his uncle's watch, or whatever. Deny him these and he seethes with rage and aggressiveness which would be murderous were he not so helpless. He is dirty; he has no morals, no knowledge and no developed skills. This means that all children, not just certain children, but all children are born delinquent. If permitted to continue in their self-centered world of infancy, given free reign to their impulsive actions to satisfy each want--every child would grow up a criminal, a killer, a thief, and a rapist." (Reb Bradley, "Biblical Insights into Child Training")
-    * "Remember that children are born with a decided bias toward evil, and therefore if you let them choose for themselves, they are certain to choose wrong. The mother cannot tell what her tender infant may grow up to be--tall or short, weak or strong, wise or foolish--all is uncertain. But one thing the mother can say with certainty--he will have a corrupt and sinful heart! It is natural for us to do wrong. Our hearts are like the earth on which we tread--let it alone, and it is sure to bear weeds!"  (J. C. Ryle)
+```
++------------------------+
+|                       ]|
+|                     _] |
+|                    _]  |
+|                __-''   | Freedoms
+|             _-''       |
+|       __--''           |
+|_--'''''                |
++------------------------+
+  1         Age        18
+```
 
-We seek to train the heart, not just behavior. God wants the heart, He wants a relationship, and only this will bring about permanent behaviors.
-* Prov. 4:23 – “Above all else, guard your heart, for it is the wellspring of life.”
-* Mark 7:21  “…from within, out of men’s hearts, come evil thoughts, sexual immorality, theft, murder, adultery, greed, malice, deceit, lewdness, envy, slander, arrogance and folly.”  The heart determines behavior.
-* Shorter Catechism says, “The chief end of man is to glorify God and to enjoy Him forever.” When we make that the ultimate goal of our parenting, it changes our parenting theory and techniques. If we teach them to use their abilities, aptitudes, talents and intelligence to make their lives better, without reference to God, we turn them away from God. Examples: “We pander to their desires and wishes. We teach them to find their soul’s delight in going places and doing things. We attempt to satisfy their lust for excitement. We fill their young lives with distractions from God. We provide material things and take delight in their delight in possessions. Then we hope that somewhere along down the line they will see that a life worth living is found only in knowing and serving God…We are training them in the idolatry of materialism…No wonder we lose our kids. We lose them because we fail to think clearly about man’s chief end, to glorify God and enjoy Him forever…therefore, your objective in every context must be to set a biblical world-view before your children.” (Tripp, p. 47-48)
+As the child grows, he is allowed more freedoms—freedom to chose how to spend his time, what to wear, what to eat (at times), whether he can go next door or down the street or to the next neighborhood.
 
-> “Each day of our lives we make deposits in the memory banks of our children.”
-> - Charles R. Swindoll
+Parenting that allows freedom outside the age range can be harmful in many ways.
+1.	**Freedoms > self-control** = Developmental confusion, potentially dangerous choices
+2.	**Freedoms < self-control** = Developmental frustration, lack of initiative
+3.	**Freedoms = Self-control** = *Developmental harmony*
 
-> “It's not only children who grow. Parents do too. As much as we watch to see what our children do with their lives, they are watching us to see what we do with ours. I can't tell my children to reach for the sun. All I can do is reach for it myself.”
-> - Joyce Maynard
+As each child develops emotionally and physically at different rates, your child may be more or less mature than your neighbor, and their freedoms may be different, too.  Raising children biblically, we have found, typically makes them more mature emotionally than children raised by our culture.
 
-Hopefully, the greatest desire of our hearts as parents is that our child be saved. We cannot save our children, but we can present God to them so that they can see Him for who He is and allow God to work on them. Good parenting only happens by the grace of God. We are not adequate to be a father as the Good Father is to be our Father. We are sinful. We make bad mistakes. But God can overcome these and cause our children to be great, believing people. We do not seek to brainwash our kids. We have 2 choices: show them the God of the Bible or don’t. Which makes the most sense?
+> Do you see a man wise in his own eyes? There is more hope for a fool than for him.
+<cite>Pr 26:12 - NIV</cite>
 
-Read: **1Ki 22:52**; **2Ch 22:3**; **Jer 9:14**. What parental influence do you see modeled here?
+When freedoms are given too early, including simple life choices, he may soon feel that he is wise in his own eyes, master of his domain and become tyrannical, wanting to have his own way in everything.  Some children can become addicted to choice and not know how to cope without choices.  This is much easier to avoid in the first place than it is to correct—meaning it is much easier to go from restraint to freedom than freedom to restraint.  It is better to keep control over behaviors and gradually let them go than to try to reign them back in.  Simple things like a child asking for permission to do something rather than just telling the parent that they are going to do it.  This also gives security of parental authority and helps him to realize his need for parental leadership.
 
-From a behavioral perspective, our desire is not so much to control our children but to teach them self-control.  Our being in control is part of that. Adults think morally and then act accordingly; young children do not think morally initially (they act by imitation or need/desire) but must learn to act morally and then learn to think morally. Actions/behaviors are learned first, then right thinking comes from that.
+Children are more secure if their world has fences and boundaries. Fences not only keep good things in but bad things out.
 
-Parenting is probably our greatest role in life. If we bring other beings into this world, we bear some responsibility for their outcome. Parenting is full-time, 100%. It is tiring, frustrating, hard work. It will stretch and strain your marriage. It will bring some of your greatest struggles in life but also some of the greatest blessings.
+### Discipline issues
 
-> “Life affords no greater responsibility, no greater privilege, than the raising of the next generation.”
-> - C. Everet Koop, M.D.
+It is not the duty of the parent to make their child happy, but instead to teach them what is right behavior according to scripture.  This, in turn, will make them happier than they could be by any other method.
 
-> "If you bungle raising your children, I don't think whatever else you do well matters very much."
-> — Jacqueline Kennedy Onassis
+Here are a few common childhood behaviors which must be dealt with in most children at some point.  Children will continue behaviors which they think will advance their goals and obtain what they want.  We must consider this when disciplining.
 
+Ezzo likes the term “reinforcement training”; psychologists would call it behavioral modification.  Whatever the name, it is real, and it is essential and common sense: we need to encourage or reinforce behaviors of which we approve, and discourage behaviors which we want to disappear.  Some of the following is from wikipedia.org. (Also,  Wiki B. F. Skinner—lots of useful information)
+  * **Positive reinforcement** is an increase in the future frequency of a behavior due to the addition of a positive or pleasing stimulus immediately following a response. Giving (or adding) food to a dog contingent on its sitting is an example of positive reinforcement (if this results in an increase in the future behavior of the dog sitting).
+  * **Negative reinforcement** is an increase in the future frequency of a behavior when the consequence is the removal of an aversive stimulus. Do not confuse this concept with punishment. There are two variations of negative reinforcement:
+    * **Avoidance conditioning** occurs when a behavior prevents an aversive stimulus from starting or being applied.  (“If you clean up your room, you don’t have to rake the yard.”)
+    * **Escape conditioning** occurs when behavior removes an aversive stimulus that has already started.  (“If you stay inside, you must watch your little brother.”)
+  * **Positive punishment** is a decrease in future frequency of a behavior due to the addition of an aversive stimulus immediately following a response.  Our most obvious example of this is spanking; others would be time out or logical consequences.
+  * **Negative punishment** is a decrease in future frequency of a behavior due to the removal of a positive stimulus immediately following a response.  An example: if you can thwart a child stealing candy where his actions no longer give candy, e.g., he must climb up to the candy jar, but the candy is no longer there.
 
-### Parenting Extremes:
-We tend to parent by things that we learned growing up, be they good or bad. When we think of how our parents raised us during stressful times, we may have felt mistreated and, as a response, strongly parent in an opposite fashion.
+The following table shows the relationships between positive/negative reinforcements and increasing/decreasing required behavior.
 
-Some parents feel that they were treated much too harshly and therefore desire to be very permissive and “loving” to their children. This allows the child to become self-centered and often leads to a child who makes decisions based on feelings instead of truth.
+|                  |    Decreases likelihood of behavior    |    Increases likelihood of behavior    |
+|------------------|----------------------------------------|----------------------------------------|
+|    Presented     |    Positive punishment                 |    Positive reinforcement              |
+|    Taken away    |    Negative punishment                 |    Negative reinforcement              |
+|                  |                                        |                                        |
 
-Other parents who had a very permissive upbringing may realize that many of their problems and unhappiness might have been avoided by more regulation and may be too harsh and strict on a child.
-When these opposite people marry, they may have constant conflict in the home as they fight with each other over what style of parenting to use, each believing that they are right, that their duty is to compensate for the other’s “weaknesses”, and will “save” the child from their spouse. This is doomed to failure and brings disastrous results.
+You don’t have to remember the names for these methods at all, but learn that there are several ways to skin a cat. These are not always clear as some overlap may occur.  The point is to encourage good behaviors and discourage bad ones.  If you give in to undesirable behaviors, they will recur.  Keep this in mind when you feel you are too tired to discipline!
 
-#### Two Extremes of Parenting (both incorrect):
-1. Authoritarian parenting. This was more prevalent in the early 20th century as people became concerned with restricting evil at the expense of teaching righteousness. This often leads to children who obeyed out of fear, not because they loved goodness and righteousness. This teaches children to behave just because they should…or else!
-2. Permissive parenting. This became more prevalent in the 60’s. This came out of thinking that man is good in nature (remember above?), that if placed in a loving environment, the child will learn and do right. These parents seek to be sure that he child feels well all the time, not that he is actually doing well. This teaches children to acts in whatever way makes him feel good.
+### Whining  
+Whining may begin soon after the one-year birthday, and it is a subtle challenge to parental authority.  It breaks the 3rd rule of obedience—to obey with a good attitude.  They will often not dare outright rebellion but will sneak it in the back door.  If allowed this will only continue and worsen.  One way to deal with this is completely ignore it; another would be to remind the child, if they are old enough, to obey with a good attitude and chastise them.  Another might be, if they are a small child and have limited vocabulary, to teach them simple phrases like, “more, please”, so that they can articulate their desires and needs.  Ezzo advocates teaching a child to sign, but we have not found this necessary, and it takes time to do this.  (Stephen and Ash taught some signs.)  Older children, if asking for something in a whining tone, should be reminded that whining is not acceptable; they should then be made to wait 2-5 minutes before they can ask again in the right tone of voice and attitude.  This can be done often and for things other than whining.  If it continues and you feel like the child is simply now doing this intentionally, chastisement is recommended as this is disobedience.
 
+### Tantrums  
+A temper tantrum is an improper way to express feelings.  They are typically seen only when they have worked in the past.   If you do not give in, they will not recur often.  All children will eventually outgrow “hissy fit” tantrums, but if they are not dealt with, the underlying attitude is still there and will later morph into verbal and even physical violence.  Temper tantrums are the ultimate rejection of parental authority.  Tantrums can be for blackmail (getting what they want) or revenge (when mom or dad doesn’t do what he wants).  Children will not have tantrums when no one is paying them any attention; they need an audience.  (And they know the best times to pick!)  For young children, isolation/apathy may be effective.  For a child over 2½, tell him that when he stops his tantrum, he will get his spanking—and do it.
 
+The goal should be to teach the child self-control and better ways of dealing with his anger and emotions when he is disappointed.  If your child never learns self-control, he will eventually be a slave to his own impulses, and others can easily dominate him.
 
-## Relevant Scriptures:
-* Prov 22:6 Train a child in the way he should go, and when he is old he will not turn from it. NIV
-* Prov 23:13 – “Do not withhold discipline from a child; if you punish him with the rod, he will not die. 14  Punish him with the rod and save his soul from death.” ( NIV)
-* Eph 6:4-(NIV) “Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.”  
-* Eph 6:4 (NLT)- “And now a word to you fathers. Don't make your children angry by the way you treat them. Rather, bring them up with the discipline and instruction approved by the Lord.”  
-* Eph 6:4 (NKJV)– “And you, fathers, do not provoke your children to wrath, but bring them up in the training and admonition of the Lord.”  
+> A person without self-control is as defenseless as a city with broken-down walls.
+<cite>Pr 25:28 - NLT</cite>
 
-What is the easiest way to frustrate someone?  Be inconsistent, don’t let them have any idea how you will behave, don’t let them know what to expect. We will not frustrate our children if we are consistent in everything—which is hard!  (Holiday Inn ad: The best surprise is NO surprise!)
+Frustration tantrums are different and occur when a child becomes frustrated with a task or desire that they cannot accomplish.  These do not merit chastisement and are not rebellious, but they need your help to learn self-control and better ways of dealing with frustration.  Teach the child to ask for help, and suggest alternative ways to deal with their problems.
 
-Children are your 2nd greatest human asset and need the commensurate level of investment. We spend so much time planning our worldly investments, to make them last, to get the most out of them, but they are only temporal. Shouldn’t we be even more concerned about our children’s future?
+### Power struggles
+This is usually when a child believes that he can control you using his behavior—simple rebellion. But sometimes this occurs (and is completely unnecessary) when parents fail to use their authority wisely, when they force themselves into a “must win” situation over small or trivial matters.  The lesson here is to choose your battles wisely—don’t worry about little things that have no real effect on overall morality or influence on your child.  Hairstyles, for instance, come and go and do not greatly affect your child’s overall health or behavior.  Their style may have some meaning as to what they are thinking or tending towards, but in itself, it is usually benign.  If you find yourself caught in a power struggle, you can either win it and take more care next time, or sit down with your child, explain to them your thinking and how it has changed, and let them “win” this one.  Communication is usually the key in these issues.  Let your child know why you are concerned and they may be able to alleviate your fears.  If it involves repetitive behavior, like a small child touching the TV/DVD, then consider changing tactics instead of continuing the same punishment.  Walking away may be an alternative here as they may simply be doing this for attention.
 
+### Dishonesty
 
-## Questions:
-1. What do you really want to achieve by studying parenting, by taking this course?
-2. Why is it so easy to get sidetracked with behavior when issues of the heart are clearly so much more important?
+**Lying, stealing, and cheating are all types of dishonesty.**
 
-3. What is wrong with a change in behavior without a change in the heart?
-4. What are your life goals in regard to your children?  When you look at how you spend your time now, does this jive with your goals that you just stated?  How do you fail, and what can you change to better fulfill those goals?
+> These wicked people are born sinners; even from birth they have lied and gone their own way.
+<cite>Ps 58:3 - NLT</cite>
 
-5. How do you rate parenting in regard to other problems in our society?
-6. What are some of the most egregious parenting techniques you have witnessed?  Why are they so horrible?
+This applies to ALL of us as we are all born into sin, all deserving death.
 
+> Lying lips are an abomination to the LORD, But those who deal truthfully are His delight.
+<cite>Pr 12:22 - NKJV</cite>
+
+Lying is not only intentionally telling falsehoods, but also not telling the complete story to gain advantage.  Children—and adults—will almost assuredly do this at times.  It is our nature as fleshly creatures.  It is especially wicked as it destroys the trust and confidence of the family bond.  If we cannot trust our family, then we are in desperate times.  This hurts us as parents more than just about any other foolish behavior.  Trust is something that breaks the family relationship and takes time to rebuild.  Breach of trust is a serious offense, one that our family takes very seriously.
+
+> A half truth is a whole lie.
+<cite>---Yiddish Proverb</cite>
+
+Age should be considered when considering chastisement for lying.  A young child does not understand the impact on the family, and lying is typically done to avoid pain or punishment.  They are not intentionally breaking trust as they don’t fully understand the seriousness.  Adolescents, on the other hand, should understand this, and serious structured consequences should result.  They must be taken back to the understanding that God is truth, and Satan is the father of lies.  This must result in fully repentant heart and attitude, or they will continue in this behavior.
+
+Motivation encouraging the child to lie must also be considered.  Here are several factors:
+
+1.	To get attention
+2.	To gain control over an object or relationship
+3.	To get revenge or hurt others
+4.	To escape responsibility
+5.	To be accepted
+6.	To balance parent’s unfairness
+7.	Because of following parental example.
+
+For all of these situations, they are countered with advice and counsel directly related to the motivation itself.  They must be made to see that alternatives not only exist but are better for them as well as being godly.  Knowing the motivation does not justify the behavior or excuse it, but it helps in correction.
+
+Lastly, regarding lying, consider if it is in character or out of character for your child.  One who habitually lies is showing that he is consumed with self-interest and that relationships mean very little to him.  This is very concerning.  If a child lies rarely, this is likely more a momentary lapse in judgment, and if dealt with properly, will likely continue to be rare.
+
+> A lie may take care of the present, but it has no future.
+<cite>Author Unknown</cite>
+
+> Truth fears no questions.
+<cite>Author Unknown</cite>
+
+> Honesty is the first chapter of the book of wisdom.
+<cite>Thomas Jefferson</cite>
+
+**Stealing** is a similar trust issue and can be graded according to the seriousness of the “crime”. Taking a cookie without permission (which I would honestly consider more disobedience than stealing) is much less serious than stealing money from mom’s or dad’s wallet.  Also, stealing from inside the family shames the child, while stealing outside shames the family.  These factors determine what consequences must occur.  If it involves a legal matter, as hard as it may be, it may be best to allow your child to be punished fully by the law instead of your helping them avoid consequences.  If simply too much to bear, then very serious structured consequences must be applied.  Juvenile delinquency is waiting around the corner.
+
+Stealing is not only possible in tangible areas but is also in...  
+
+**Gossip** often takes the good reputation from others, and is a form of stealing as well as lying.  It is likely one of the most under-recognized sins of today’s church in the US as we often put up with it.  It is a hidden poison or cancer which affects many different situations insidiously.
+
+> A perverse man stirs up dissension, and a gossip separates close friends.
+<cite>Pr 16:28 - NIV</cite>
+
+> A gossip betrays a confidence; so avoid a man who talks too much.
+<cite>Pr 20:19 - NIV</cite>
+
+> Without wood a fire goes out; without gossip a quarrel dies down.
+<cite>Pr 26:20 - NIV</cite>
+
+When we hear our child involved in speaking ill of others, we try to bring the behavior to their attention, help them to see the evil of it, and encourage them to instead speak well of the person in public, or, at the very least, to walk away and do not participate in those acts.  Scripture frequently tells us to mind our own business.
+
+Live in such a way that you would not be ashamed to sell your parrot to the town gossip.  
+
+> The only time people dislike gossip is when you gossip about them.
+<cite>---Will Rogers</cite>
+
+> Some say our national pastime is baseball. Not me. It's gossip.
+<cite>---Erma Bombeck</cite>
+
+> No one gossips about other people's secret virtues.
+<cite>---Bertrand Russell</cite>
+
+> Gossip is when you hear something you like about someone you don't.
+<cite>---Earl Wilson</cite>
+
+**Cheating** is an act of deceiving and/or defrauding others, and is a form of lying.  Cheating not only hurts the cheater but also the one who is cheated.  God hates this.
+
+> Dishonest scales are an abomination to the LORD, But a just weight is His delight.
+<cite>Pr 11:1 - NKJV</cite>
+
+> Do not have two differing weights in your bag — one heavy, one light. Do not have two differing measures in your house — one large, one small. You must have accurate and honest weights and measures, so that you may live long in the land the LORD your God is giving you. For the LORD your God detests anyone who does these things, anyone who deals dishonestly.
+<cite>Dt 25:13-16 - NIV</cite>
+
+Children often learn this from their parents on little things—telling the theater that they are under 12 (when they are not) to get cheaper tickets, etc.
+
+### Siblings and conflict
+> I, who have no sisters or brothers, look with some degree of innocent envy on those who may be said to be born to friends.
+<cite>---James Boswell</cite>
+
+> Siblings are the people we practice on, the people who teach us about fairness and cooperation and kindness and caring - quite often the hard way.
+<cite>---Pamela Dugdale</cite>
+
+Because we are all sinners, and family members live in close quarters, there will always be conflicts.  The key is to minimize behaviors that are sinful and cause greater conflict.
+
+Sibling rivalry is usually not truly ill will towards a family member, but more often when a child does not feel loved himself.  Address the root issue here—give the child the love and security they need in the first place.
+Sibling conflict is more accurate when siblings are repeatedly fighting with each other and needs to be addressed as is done here.
+
+> Therefore encourage one another and build each other up, just as in fact you are doing.
+<cite>1 Th 5:11 - NIV</cite>
+
+Encouragement and kindness towards others, especially family, is something that should be actively taught to our children.  If we cannot be kind to our own family, then we cannot hope to be very godly to others.  Parents (especially me—Frank) tend to “be ourselves” at home, let down our guard, and be much more selfish and grumpy with those we love the most compared to those we see at work or in public.  This teaches our children to do the same.  Some issues are more common in children.
+
+#### Resolving conflict
+Try to have your children resolve their own conflict whenever possible.  This teaches them that they can get along without intervention and helps them to see the point of view of the other sibling, and to treat them with compassion. (Ex.: having our kids sit knee to knee to work out a problem; Hawks have put two of their boys into one of their dad’s t-shirts for a short period of time until they work it out—end up laughing)
+
+**Tattling** is when a child brings a report of another sibling’s behavior motivated by the desire to get them into trouble.  The aim of the child is to hurt their sibling and is malicious.  It should not be considered tattling when a child tells a parent of behaviors involving health or safety concerns; this behavior needs to be encouraged because it is actual concern for the health of the sibling.  Sometimes the only way to discriminate between the two is to read the child’s face and actions to see if it is malicious.  A truly concerned sibling will come in humility and not haughtiness.  When in doubt, give the benefit of the doubt, but warn the child that they are close to tattling which is wrong and will be punished.
+
+Tattling is also close to gossip.  Tattling should not go unchallenged as it breaks down the family bonds and encourages sibling conflict.  We do not initially put it on the same level as rebellion (but treat it more with asking forgiveness, etc.), but if it is repetitive or habitual, it may become rebellion/disobedience, and it needs serious consequences.
+
+**Verbal and physical altercations**:  We must teach our children self-control, and kindness and love towards one another.
+
+> A gentle answer turns away wrath, but a harsh word stirs up anger.
+<cite>Pr 15:1 - NIV</cite>
+
+> A fool gives full vent to his anger, but a wise man keeps himself under control.
+<cite>Pr 29:11 - NIV</cite>
+
+Hitting, pushing, and biting are all potentially serious and must be addressed.  We did not find that spanking increased these behaviors but stopped them when done properly.  (Children know the difference between these bad behaviors and properly administered punishment.)  Determine the motivation and intensity of the conflict.  If it is more simply child’s play, then we might have them “hug, kiss, and make up” which normally made them smile, laugh, and end up playing again.  Tattling is also often involved here: “Mom, Ricky hit me”, when they are not hurt in the least.
+
+Talking badly about a family member is destructive.  We are really hurt when family members talk poorly of us.  Teach your children to encourage one another.  If you hear one child talking smack about a sibling, consider making that person make several serious, uplifting comments about that sibling in its place.  Teach your children to be siblings to one another—not another set of parents.  Do not let an older child try to parent a younger one (unless baby-sitting, etc.) or the younger child will resent the older child.
+
+<hr>
+
+In short, be prepared in every situation to teach your children biblical principles of how to treat each other.  Show them how to love one another, to lift one another up.  Take time to explain what the Bible says, to show better ways to express concerns and conflicts, and to realize how our God expects us to behave—like Him.
+
+Use family devotions as a time when you can read an applicable passage of scripture and address issues you see coming up during the day. Make sure you point children to our need of a Savior because of our sinful hearts, and God’s gracious provision.  Look for teachable moments.  Point out bad behaviors you see around you.  Help them learn from other’s mistakes—maybe yours!
+
+## Questions:  
+1.	What does it mean to be “wise in your own eyes”?  How can we prevent this in our children?
+2.	How should you deal with whining?  Tantrums?  Power struggles?
+3.	Why is lying so devastating to the family?’
+4.	How should our children learn to speak of others?  What can we do to encourage right behavior?
 
 ## Homework:
-1. Discuss with your spouse (or, if spouse not available, a friend/mentor) your goals in taking this course as well as goals in parenting. Be ready to discuss this next week.
-2. In what other ways does the concept of the depravity of man affect your thinking and viewpoints?
-3. What things exasperate or frustrate you?
+1.	Evaluate the freedoms granted your children.  Do they match their level of maturity?
+2.	Watch for conflicts among your children this week.  Be prepared to share what went on, the motivation, how you dealt with it, and the outcome.
 
+> Sometimes being a brother is even better than being a superhero.
+<cite>---Marc Brown</cite>
 
-> Mother Nature, in her infinite wisdom, has instilled within each of us a powerful biological instinct to reproduce; this is her way of assuring that the human race, come what may, will never have any disposable income.
-> - Dave Barry
+> Our brothers and sisters are there with us from the dawn of our personal stories to the inevitable dusk.
+<cite>---Susan Scarf Merrell</cite>
 
-> The quickest way for a parent to get a child's attention is to sit down and look comfortable.
-> - Lane Olinghouse
+> When brothers agree, no fortress is so strong as their common life.
+<cite>---Antisthenes</cite>
 
-> Do not ask that your kids live up to your expectations. Let your kids be who they are, and your expectations will be in breathless pursuit.
-> - Robert Brault
-
-> The guys who fear becoming fathers don't understand that fathering is not something perfect men do, but something that perfects the man. The end product of child raising is not the child but the parent.
-> - Frank Pittman, Man Enough
-
-> Children are our second chance to have a great parent-child relationship.
-> - Laura Schlessinger
+> Behold, children are a gift of the LORD, the fruit of the womb is a reward. Like arrows in the hand of a warrior, so are the children of one's youth. How blessed is the man whose quiver is full of them. They will not be ashamed when they speak with their enemies in the gate.
+<cite>Ps 127:3-5 - NASU</cite>

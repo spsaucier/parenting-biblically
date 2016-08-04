@@ -7,139 +7,118 @@ paginate: lessons
 layout: lesson.html
 date: 2016-07-11
 draft: false
-next: discipline-issues
-previous: respect-for-others
+next: discipline
+previous: respect
 ---
 
-Behold, children are a gift of the LORD, the fruit of the womb is a reward. Like arrows in the hand of a warrior, so are the children of one's youth. How blessed is the man whose quiver is full of them. They will not be ashamed when they speak with their enemies in the gate.
-Ps 127:3-5 NASU
+## Principles of Obedience
 
-Memory Verse:
-Matthew 6:33 – “But seek first the kingdom of God and his righteousness, and all these things will be added to you.”
-Thought for the Week:  
-Family is who you will be forced to live with the rest of your life. Try to be someone whom you would love to be around.
+#### Memory verse:
+> Children, obey your parents in everything, for this pleases the Lord.  
+<cite>Col 3:20 - NIV</cite>
 
-> The family you come from isn't as important as the family you're going to have.
-> -	Ring Lardner
+**This week’s principle**:  God requests us---expects us---to obey the first time He commands.  Why should our children be any different?
 
+> Children rise to the level of expectation of their parents.  Many parents expect little and receive exactly that.
+<cite>---Ezzo</cite>
 
-Explanation of the Course:
-* Importance. Experience in China. Culture, children and parents of today.
-* 10 weeks. Take Biblical teachings and apply it to daily life.
-* Homework. Expect handouts, note taking.
-* Completed notes for those who cannot come.
-* 3 premises:
-    1. The goal of Biblical parenting is to raise a morally responsible and biblically responsive child; we cannot save our children, but we should do all that we possibly can to lead them to a true understanding of Jesus’ and the Gospel.
-    2. The Bible does not provide us with exact details about raising children. This course is not intended to be all-inclusive but to teach principles to be used in parenting.
-    3. All child-raising principles used must bring glory to God and not run contrary to biblical theology. (Some things are non-biblical but not un-biblical.)
-* Tripp says a biblical vision for the parenting tasks is multifaceted; it involves being authorities who are kind, shepherding your children to understand themselves in God’s world, and keeping the gospel in clear view so your children can internalize the good news and someday live in mutuality with you as people under God. (p. xvii)
-* Texts:
-    * Growing Kids God’s Way by Gary & Anne Marie Ezzo (course structured on this book)
-    * Shepherding a Child’s Heart by Ted Tripp
-    * The Key to Your Child’s Heart by Gary Smalley
-    * Dare to Discipline; Bringing Up Boys by Dobson.
+> Children, obey your parents in the Lord, for this is right.  
+<cite>Eph 6:1 - NIV</cite>
 
+## Why obey?
+Children’s obeying their parents is commanded many times in the Bible.  In order to honor their parents, they must obey.  No matter how many things you teach your children, if they do not obey rightly, their hearts will always be hardened.  It is understood in Christian culture and in our society that children should obey their parents; our society depends on this.
 
-> “Before I got married I had six theories about bringing up children; now I have six children, and no theories.”
-> – John Wilmot
+**Training to the standard**.  God expect us to respond to His commands in a certain way, and we should expect our children to do the same.  There are 3 components of obeying a command:
+1.	Obey the *first time* a command is given.
+2.	Obey *immediately*.
+3.	Obey with a *good attitude* and right heart.
 
+Our children should be taught that doing a task, etc., alone is not obedience in itself.  It should be done when it is asked, not put off until some other time.  There should be no bad attitude, complaint, or challenge.  God loves cheerful obedience, and this should be demanded of our children, too.  This is not as hard as it might seem, and if they learn it correctly in the first place, it will be something very natural to them.  This process is usually much easier for the child to learn than it is the parents!  First time obedience may one day save your child’s life; we know stories of how not obeying the first time has caused extreme consequences—yes, even death.  
 
-Assumptions:
-1. You, the parent, are a believer in Jesus Christ, relying totally on Him as Savior, having Him as your Lord. You can take the course without being saved, and it will have some value, but your children will likely eventually figure this out, and what is the value of raising your child properly when your eternity will be in Hell?
-2. The authority and inerrancy of scripture is assumed. As much as possible, we will use the Bible as our guide to choose what should and should not be done.
-3. Depravity of man—and children.
-    * Gen 8:21 - The LORD smelled the pleasing aroma and said in his heart: "Never again will I curse the ground because of man, even though every inclination of his heart is evil from childhood. (NIV)
-    * Ps 58:3 - These wicked people are born sinners; even from birth they have lied and gone their own way. (NLT)
-    * Ps 51:5 - Surely I was sinful at birth, sinful from the time my mother conceived me. NIV
-    * Jer 17:9 - The heart is more deceitful than all else and is desperately sick; who can understand it? (NASU)
-    * Rom 3:10 - There is no one righteous, not even one;   11 there is no one who understands,  no one who seeks God. 12 All have turned away, they have together become worthless; there is no one who does good, not even one.  (NIV)  (Ps 14:1-3; 53:1-3)
+> And Samuel said, “Has the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to listen than the fat of rams. For rebellion is as the sin of divination, and presumption is as iniquity and idolatry.
+>
+> Because you have rejected the word of the Lord, he has also rejected you from being king.”  Saul said to Samuel, “I have sinned, for I have transgressed the commandment of the Lord and your words, because I feared the people and obeyed their voice.
+<cite>I Sam 15:22-24 - ESV</cite>
 
-4. Babies are not sweet and innocent at birth.
-    * Psalm 51:5 "Surely I was sinful at birth, sinful from the time my mother conceived me!"  
-    * Genesis 8:21 "Every inclination of his heart is evil from childhood."
-    * "Every baby starts life as a little savage. He is completely selfish and self-centered: he wants what he wants--his bottle, his mother's attention, his playmate's toys, his uncle's watch, or whatever. Deny him these and he seethes with rage and aggressiveness which would be murderous were he not so helpless. He is dirty; he has no morals, no knowledge and no developed skills. This means that all children, not just certain children, but all children are born delinquent. If permitted to continue in their self-centered world of infancy, given free reign to their impulsive actions to satisfy each want--every child would grow up a criminal, a killer, a thief, and a rapist." (Reb Bradley, "Biblical Insights into Child Training")
-    * "Remember that children are born with a decided bias toward evil, and therefore if you let them choose for themselves, they are certain to choose wrong. The mother cannot tell what her tender infant may grow up to be--tall or short, weak or strong, wise or foolish--all is uncertain. But one thing the mother can say with certainty--he will have a corrupt and sinful heart! It is natural for us to do wrong. Our hearts are like the earth on which we tread--let it alone, and it is sure to bear weeds!"  (J. C. Ryle)
+We must take care in our commands to our children that they are able to perform and understand the tasks requested; otherwise, they may become exasperated.  This takes only a little time and experience to know how to avoid this.
 
-We seek to train the heart, not just behavior. God wants the heart, He wants a relationship, and only this will bring about permanent behaviors.
-* Prov. 4:23 – “Above all else, guard your heart, for it is the wellspring of life.”
-* Mark 7:21  “…from within, out of men’s hearts, come evil thoughts, sexual immorality, theft, murder, adultery, greed, malice, deceit, lewdness, envy, slander, arrogance and folly.”  The heart determines behavior.
-* Shorter Catechism says, “The chief end of man is to glorify God and to enjoy Him forever.” When we make that the ultimate goal of our parenting, it changes our parenting theory and techniques. If we teach them to use their abilities, aptitudes, talents and intelligence to make their lives better, without reference to God, we turn them away from God. Examples: “We pander to their desires and wishes. We teach them to find their soul’s delight in going places and doing things. We attempt to satisfy their lust for excitement. We fill their young lives with distractions from God. We provide material things and take delight in their delight in possessions. Then we hope that somewhere along down the line they will see that a life worth living is found only in knowing and serving God…We are training them in the idolatry of materialism…No wonder we lose our kids. We lose them because we fail to think clearly about man’s chief end, to glorify God and enjoy Him forever…therefore, your objective in every context must be to set a biblical world-view before your children.” (Tripp, p. 47-48)
+> **NEVER count to 3, threaten, bribe, or accept defeat.**
+<cite>---Frank Saucier</cite>
 
-> “Each day of our lives we make deposits in the memory banks of our children.”
-> - Charles R. Swindoll
+## How to undermine the process
+There are many things that we may do as parents to undermine this teaching, and they must be avoided.  Some children learn that they only have to obey the third time you say something, only if you threaten, or when you get mad enough.  They are taught to sin by these poor parenting techniques.  When held to a standard of true biblical obedience, the child alone determines whether he will be punished; it is clear that the burden is on him to obey as instructed.
 
-> “It's not only children who grow. Parents do too. As much as we watch to see what our children do with their lives, they are watching us to see what we do with ours. I can't tell my children to reach for the sun. All I can do is reach for it myself.”
-> - Joyce Maynard
+1. **Threatening & repeating**.  There should be no reason to threaten or bribe a child in order to make them obey.  Telling them that they will be punished, other than when training a new concept or command,  is not necessary as they should know this.  Repeating your command multiple times or counting to 3 only lets them know that your words don’t mean anything the first time you say them; they learn to obey only when you repeatedly tell them.  
+2. **Bribing**.  Bribing them with gifts or rewards is not obedience at all but payment for services rendered.  They learn only to obey when something—that they want—is in it for them.  This is not obedience at all.  This does not mean that children are not to be rewarded for their obedience, but they should obey regardless of the reward, not in order to get one.  Children who obey for reward tend to become self-oriented and learn to manipulate others.  They limit their ability to serve others by their ability to gain reward for themselves.
+3. **Negotiating in conflict**.  Some parents allow the child to argue and work out a compromise of obedience.  The parent does not stand up to their original command enough to enforce it. If all things are negotiable, absolutes do not exist.  There may be times to accept a humble request for negotiation, but this should be the exception, not the norm.  If children become accustomed to negotiation, they will be frustrated with the standard of obedience.  Choose your battles well so that you do not fall into repeated negotiation; take care that you mean what you say before you say it. (And if you decide that you erred, apologize and fix it immediately.)
 
-Hopefully, the greatest desire of our hearts as parents is that our child be saved. We cannot save our children, but we can present God to them so that they can see Him for who He is and allow God to work on them. Good parenting only happens by the grace of God. We are not adequate to be a father as the Good Father is to be our Father. We are sinful. We make bad mistakes. But God can overcome these and cause our children to be great, believing people. We do not seek to brainwash our kids. We have 2 choices: show them the God of the Bible or don’t. Which makes the most sense?
+Loving your child  It seems that our current culture truly wants to “love” their children, and feels that forcing the child to do something other than what the child wants is hurtful and harmful to them—it may hurt their self-esteem or their creativity and initiative.  When we study scripture, we see that this is not true at all.  What is hurtful is to allow your child to go on in their sinful ways, and what is loving is to teach them what God expects of them.
 
-Read: **1Ki 22:52**; **2Ch 22:3**; **Jer 9:14**. What parental influence do you see modeled here?
+> All we like sheep have gone astray; we have turned—every one—to his own way; and the Lord has laid on him the iniquity of us all.  
+<cite>Is 53:6 - NIV</cite>
 
-From a behavioral perspective, our desire is not so much to control our children but to teach them self-control.  Our being in control is part of that. Adults think morally and then act accordingly; young children do not think morally initially (they act by imitation or need/desire) but must learn to act morally and then learn to think morally. Actions/behaviors are learned first, then right thinking comes from that.
+> There is a way that seems right to a man,  but its end is the way to death.
+<cite>Proverbs 14:12 - ESV</cite>
 
-Parenting is probably our greatest role in life. If we bring other beings into this world, we bear some responsibility for their outcome. Parenting is full-time, 100%. It is tiring, frustrating, hard work. It will stretch and strain your marriage. It will bring some of your greatest struggles in life but also some of the greatest blessings.
+Obviously, you love your children—that’s why you are taking this course.  Learn to love them by teaching them God’s way of doing things.  This is what is best for them.  And it is a great deal of work for you.
 
-> “Life affords no greater responsibility, no greater privilege, than the raising of the next generation.”
-> - C. Everet Koop, M.D.
+## Principles of instruction
+Proper communication is essential in order to help your child understand what is expected of them and avoid “exasperating” them.  Following a few principles will help avoid these issues.
 
-> "If you bungle raising your children, I don't think whatever else you do well matters very much."
-> — Jacqueline Kennedy Onassis
+1. **Immediate response**.  When speaking to your child in a way that requires action, you should expect and require an immediate response.  Children will rise to whatever level is expected of them with very little hassle—depending on how ingrained bad habits are.
 
+2. **Words have meaning**.  Don’t say what you are not ready to mean and back up with whatever means necessary.  When giving instruction, always seek to be very clear and exact in your words so that there is no confusion.  Say precisely what you mean.  (I have found this is much easier for fathers than for mothers.)  One sure way to get a child to not obey is to teach them that you will not enforce your command.  If commands are not followed and the parent does nothing in response, the child will quickly develop contempt for parental instruction altogether.  Instruction must be clear and consistent.
 
-### Parenting Extremes:
-We tend to parent by things that we learned growing up, be they good or bad. When we think of how our parents raised us during stressful times, we may have felt mistreated and, as a response, strongly parent in an opposite fashion.
+    There are 2 types of instruction: **directive**, telling your child to do something and **restrictive**, telling them not to do something.  Both normally require immediate responses.  3 things may help in this regard in certain circumstances:
 
-Some parents feel that they were treated much too harshly and therefore desire to be very permissive and “loving” to their children. This allows the child to become self-centered and often leads to a child who makes decisions based on feelings instead of truth.
+    * **Provide an appropriate time warning**.  Your child may be in the middle of something they are enjoying or working on.  Providing them with a few extra minutes (e.g. 5 minutes) helps them plan an end to their activity and prevent frustration.  Try to understand what they are doing and how you would feel in a similar situation.
 
-Other parents who had a very permissive upbringing may realize that many of their problems and unhappiness might have been avoided by more regulation and may be too harsh and strict on a child.
-When these opposite people marry, they may have constant conflict in the home as they fight with each other over what style of parenting to use, each believing that they are right, that their duty is to compensate for the other’s “weaknesses”, and will “save” the child from their spouse. This is doomed to failure and brings disastrous results.
+    * **Providing a door of escape**.  Children may have to disobey a rule sometimes in order to obey an even more essential rule.  They might (rarely) be caught between a “rock and a hard place” and make a decision which may cause you to react negatively.  Be ready to hear an explanation as to why they did what they did.  Open, honest lines of communication assist in this way.
 
-#### Two Extremes of Parenting (both incorrect):
-1. Authoritarian parenting. This was more prevalent in the early 20th century as people became concerned with restricting evil at the expense of teaching righteousness. This often leads to children who obeyed out of fear, not because they loved goodness and righteousness. This teaches children to behave just because they should…or else!
-2. Permissive parenting. This became more prevalent in the 60’s. This came out of thinking that man is good in nature (remember above?), that if placed in a loving environment, the child will learn and do right. These parents seek to be sure that he child feels well all the time, not that he is actually doing well. This teaches children to acts in whatever way makes him feel good.
+    * **Consider context**.  What you are asking of your child might be reasonable most times but be unreasonable at others.  Be ready to hear what they have to say.
 
+3.	**Disobedience is sin, and so is continually allowing it to happen**.  Vigilance on the part of the parent is required, and this, in our experience, is probably the toughest aspect of proper parenting.  It takes energy and time (that you were normally not expecting to use!) to be a good parent.
+Judicial parenting requires that sin be punished accordingly.  For a small fault or, of course, simple error, lesser consequences apply, but outright disobedience is an act of the will and is sin, thus mandating a standard of response.  
 
+## How to give proper instruction
+**Eye contact** and **verbal response** are very beneficial in giving and receiving instruction.
 
-## Relevant Scriptures:
-* Prov 22:6 Train a child in the way he should go, and when he is old he will not turn from it. NIV
-* Prov 23:13 – “Do not withhold discipline from a child; if you punish him with the rod, he will not die. 14  Punish him with the rod and save his soul from death.” ( NIV)
-* Eph 6:4-(NIV) “Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.”  
-* Eph 6:4 (NLT)- “And now a word to you fathers. Don't make your children angry by the way you treat them. Rather, bring them up with the discipline and instruction approved by the Lord.”  
-* Eph 6:4 (NKJV)– “And you, fathers, do not provoke your children to wrath, but bring them up in the training and admonition of the Lord.”  
+Whenever possible, seek and get eye contact with your child when giving instruction.  This helps with the skill of focus and helps them process information as well as pay better attention.  Children can be very focused on what they are doing (like men!) and not hear anything they are told.  If they don’t hear it, they can’t do it.  Getting their attention is critical in order to expect obedience.
 
-What is the easiest way to frustrate someone?  Be inconsistent, don’t let them have any idea how you will behave, don’t let them know what to expect. We will not frustrate our children if we are consistent in everything—which is hard!  (Holiday Inn ad: The best surprise is NO surprise!)
+Just as important is a proper verbal response.  After hearing instruction, they should respond “Yes, Ma’am” or something proper (you decide) in order to show that they understand and are willing to comply with the directive.  Should they repeatedly respond properly verbally but then disobey, they are then not only disobedient but potentially lying/deceitful also.  Be aware of what you child is doing, what their level of awareness would likely be, and adjust accordingly. A louder or more stern voice is sometimes required to get their attention in the first place.  Generally by getting eye contact and a verbal response, this assures that your child understands the instruction.
 
-Children are your 2nd greatest human asset and need the commensurate level of investment. We spend so much time planning our worldly investments, to make them last, to get the most out of them, but they are only temporal. Shouldn’t we be even more concerned about our children’s future?
+*Consistency is hard work*.  Inconsistency in parental resolve only brings about contempt for the standard and exasperation on the part of the child.  Inconsistency will lead to their gambling regarding obedience.  Gambling itself is addictive because we all have that desire to win, to beat the odds.  If you are inconsistent in demanding and achieving obedience, your children will begin to gamble—and may become addicted to it!  They may find it fun to see when or how often you will force them into submission.
 
+In case you haven’t yet figured it out, this course is not about training the habits and behavior of your children—it is about training you!  You must learn to be a steady rock, consistent, and tough.
 
-## Questions:
-1. What do you really want to achieve by studying parenting, by taking this course?
-2. Why is it so easy to get sidetracked with behavior when issues of the heart are clearly so much more important?
+> “For I, the LORD, do not change;”
+<cite>Malachi 3:6a</cite>
 
-3. What is wrong with a change in behavior without a change in the heart?
-4. What are your life goals in regard to your children?  When you look at how you spend your time now, does this jive with your goals that you just stated?  How do you fail, and what can you change to better fulfill those goals?
+> Of old you laid the foundation of the earth, and the heavens are the work of your hands. They will perish, but you will remain;  they will all wear out like a garment. You will change them like a robe, and they will pass away, but you are the same, and your years have no end.
+<cite>Psalm 102:25-27 - ESV</cite>
 
-5. How do you rate parenting in regard to other problems in our society?
-6. What are some of the most egregious parenting techniques you have witnessed?  Why are they so horrible?
+### Levels of initiative  
+1.	**Self-generated**.  This is when a child, without any prompting, sees what needs to be done and simply does it on their own accord.  This requires a higher level of maturity and is what is ultimately being sought to become a responsible adult.  A child doing this should receive high verbal or other affirmation!
+2.	**Prompted initiative**.  When a child receives instruction, then obeys quickly and with a good attitude, this is prompted initiative.  This also earns praise from the parent, especially when a good attitude is present.  Children learn that participating in family chores and activities is essential and rewarding, and they will soon be doing (a few!) things without prompting.  This level is the benchmark of proper response.
+3.	**Forced initiative**.  This is present when there is right behavior but wrong attitude.  This certainly does not merit praise, and many times should bring about some sort of correction response.  This is not true obedience.  A child will not rise above this level if they are allowed to persist in this type of response.  They will go through life obedient but grumpy, whiny, and irritable.
+4.	**Suppressed initiative**.  (I don’t know why they call this initiative at all.)  This is downright disobedience as the child ignores the parent and does what he pleases.  This should bring about a distinct response.  A mother (or father) who tells her child to do a chore and then ends up doing it herself is not only taking the easy way out but also doing a disservice to the child—teaching them that it doesn’t matter if they disobey.  This only affirms the child’s disobedience—but it is easier.
+
+Disobedience is not a mystery—we all want to do what we want to do.  However, training a child in proper obedience is not only Biblical, but the best thing for them and for the family.  Many children are led into insubordination by well-meaning but poorly behaving parents!
+
+A child’s sense of approval (and often their sense of self-worth) is directly related to the standard of behavior required by their parents.  We have found that our children (praise God!) tend to be more mature, more self-confident, and more well-adjusted than most of their peers.  Children thrive when they know what is expected of them and what to expect from us in all circumstances.  Consistency leads to security and confidence.  A child who obeys and receives proper rewards will be happier and feel more loved than by being parented by any other method.  High standards bring about high rewards.  Children learn that actions lead to consequences, that words have meaning, and that proper behavior leads to reward.  You can only achieve the goals at which you aim.
+
+> Parents who are afraid to put their foot down usually have children who tread on their toes.
+<cite>-- Chinese Proverb</cite>
+
+## Questions:  
+1.	What 3 aspects of response are essential in biblical obedience?
+2.	What poor parenting techniques undermine proper training?
+3.	Situations will vary drastically at times.  What are some proper ways of considering a variation in our child’s response?  What is essential for these to work?
+4.	What response should parents receive when giving instruction?
+5.	What are some ways to exasperate your child?
 
 
-## Homework:
-1. Discuss with your spouse (or, if spouse not available, a friend/mentor) your goals in taking this course as well as goals in parenting. Be ready to discuss this next week.
-2. In what other ways does the concept of the depravity of man affect your thinking and viewpoints?
-3. What things exasperate or frustrate you?
-
-
-> Mother Nature, in her infinite wisdom, has instilled within each of us a powerful biological instinct to reproduce; this is her way of assuring that the human race, come what may, will never have any disposable income.
-> - Dave Barry
-
-> The quickest way for a parent to get a child's attention is to sit down and look comfortable.
-> - Lane Olinghouse
-
-> Do not ask that your kids live up to your expectations. Let your kids be who they are, and your expectations will be in breathless pursuit.
-> - Robert Brault
-
-> The guys who fear becoming fathers don't understand that fathering is not something perfect men do, but something that perfects the man. The end product of child raising is not the child but the parent.
-> - Frank Pittman, Man Enough
-
-> Children are our second chance to have a great parent-child relationship.
-> - Laura Schlessinger
+## Homework:  
+1.	Explain to your children how you expect them to respond to instruction.  You may need to do this several times.  Encourage their questions.
+2.	Make a game out of having your (small) child come immediately the first time you call with the proper verbal response.  How did this go?  Consider small rewards (M&M) initially.
+3.	Observe parents and children around you this week.  What proper and poor parenting techniques do you see?  How about your efforts at home?

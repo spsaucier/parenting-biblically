@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {{#each collections.blog}}
+  {{#each collections.lessons}}
   <url>
     <loc>{{../site.url}}/{{{this.path}}}</loc>
     <lastmod>{{formatDate this.date}}</lastmod>
@@ -11,7 +11,7 @@
     <lastmod>{{formatDate "now"}}</lastmod>
   </url>
   <url>
-    <loc>{{site.url}}/blog/</loc>
+    <loc>{{site.url}}/lessons/</loc>
     <lastmod>{{formatDate "now"}}</lastmod>
   </url>
 </urlset>

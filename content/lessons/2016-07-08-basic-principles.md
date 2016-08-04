@@ -7,7 +7,7 @@ paginate: lessons
 layout: lesson.html
 date: 2016-07-08
 draft: false
-next: upward-respect
+next: respect
 previous: pre-requisite-relationships
 ---
 
