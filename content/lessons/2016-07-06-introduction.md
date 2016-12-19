@@ -26,6 +26,23 @@ Family is who you will be forced to live with the rest of your life. Try to be s
 > The family you come from isn't as important as the family you're going to have.
 > -	Ring Lardner
 
+## Course Learning Objectives
+
+* The prerequisites of a solid, biblical family; the necessary background of a stable home
+* Basic Biblical principals used for all parenting times
+* Whom and what we are to respect
+* That obedience is necessary and expected of God’s people and our children
+* What is disobedience and what is being a childish
+* That parenting is difficult, time consuming, and exhausting, but it is commanded and worthy
+* That actions lead to consequences
+* Specific techniques used in discipline, encouragement, and correction
+* How to restore a broken relationship, parent and child
+* Common errors and pitfalls of godly parenting
+* How we are different from the world and better for it
+* That ultimately, you must decide what God would have you do to properly discipline your child
+* Family-building
+
+
 ## Explanation of the Course:
 
 * Importance. Experience in China. Culture, children and parents of today.

@@ -108,7 +108,21 @@ Consider **four factors** when deciding how to correct a child’s foolish actio
 
 Don’t apply rules randomly or have rules for which there is no room for change.  Try to make discipline rational and specific.  Be flexible when appropriate in order to have discipline make sense.  If it is clearly too harsh or too mild, it may cause resentment or mocking—both poor results.
 
-**Three Hard & Fast rules**:  (These should never be broken.)
+## Fearing your child’s response
+
+It is understandable to fear that your child may have an “adverse reaction” to discipline.  Take a look at this plea from Job:
+
+> With a strong hand, God grabs my shirt. He grips me by the collar of my coat. 19 He has thrown me into the mud. I’m nothing more than dust and ashes.
+> I cry to you, O God, but you don’t answer. I stand before you, but you don’t even look. 21 You have become cruel toward me. You use your power to persecute me.  You throw me into the whirlwind and destroy me in the storm. 23 And I know you are sending me to my death — the destination of all who live.
+<cite>Job 30:18-23 NLT</cite>
+
+Here Job is severely distraught (understandably) and believes that God Himself has not only abandoned him, but is even persecuting him.  Now, of course, God did nothing wrong—He was doing something for His glory and, ultimately, Job’s good. It was not until later that Job fully understood this.  This will be true for your children as well.
+
+I can remember at about the age of 8-10, my parents simply made me stop watching a TV program I wanted to watch and go to bed—on a school night.  It was fully appropriate for them to do so.  I was livid!  I remember climbing the stairs to my room, stating out loud, “I hate you! I hate you!”  Clearly, that was childish and foolish behavior.  Your children will do the same!  If they act this way, lovingly take them aside, get in their face, and remind them why you do the things that you do—because you love them, and right by God is right indeed!  By far the best way to avoid seeing this type of response is to be as consistent as possible.  This is the best way to avoid frustration.  But even then, sometimes a child will give a wrong response.  It does not mean that you were wrong in the disciplinary action (but always examine what just occurred).
+
+## Three Hard & Fast rules: 
+
+_These should never be broken._
 
 1.	**Do not leave your correction to your spouse**.  Several things can potentially happen.  First, children will learn that the “non-correcting” parent is not to be truly respected—they do nothing without the “correcting” parent, and many times they will just let things slide either because it is easier or they forget.  They will begin to behave worse and worse with less respect towards this “lame” parent.  Second, they may begin to hate when—typically the Father—comes home because he comes home to punish children for things he has not witnessed or been part of.  This may cause distance in that relationship, and it will surely cause friction in the marriage.  It is sort of a “good-cop, bad-cop” parenting situation.  If need for punishment arises, deal with it then and there whenever possible.  Don’t wait and make someone else deal with it.
 2.	**Never reveal parental conflict** over discipline issues in front of the child.  As we have said before, whenever possible, take the discussion over punishment/discipline issues somewhere else to clarify and agree so a united front is presented to the child.  This keeps the child from pitting one parent against another and also keeps them from possibly always blaming one parent for being too strict and the other too weak.  They will pick up on parental conflict very quickly and use this.
