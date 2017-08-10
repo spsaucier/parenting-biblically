@@ -45,8 +45,8 @@ Family is who you will be forced to live with the rest of your life. Try to be s
 
 ## Explanation of the Course:
 
-* Importance. Experience in China. Culture, children and parents of today.
-* 10 weeks. Take Biblical teachings and apply it to daily life.
+* Importance. Culture, children and parents of today.
+* Take Biblical teachings and apply it to daily life.
 * Homework. Expect handouts, note taking.
 * Completed notes for those who cannot come.
 * 3 premises:
@@ -73,7 +73,7 @@ Family is who you will be forced to live with the rest of your life. Try to be s
     * Gen 8:21 - The LORD smelled the pleasing aroma and said in his heart: "Never again will I curse the ground because of man, even though every inclination of his heart is evil from childhood. (NIV)
     * Ps 58:3 - These wicked people are born sinners; even from birth they have lied and gone their own way. (NLT)
     * Ps 51:5 - Surely I was sinful at birth, sinful from the time my mother conceived me. NIV
-    * Jer 17:9 - The heart is more deceitful than all else and is desperately sick; who can understand it? (NASU)
+    * Jer 17:9 - The heart is more deceitful than all else and is desperately sick; who can understand it? (NASV)
     * Rom 3:10 - There is no one righteous, not even one;   11 there is no one who understands,  no one who seeks God. 12 All have turned away, they have together become worthless; there is no one who does good, not even one.  (NIV)  (Ps 14:1-3; 53:1-3)
 
 4. Babies are not sweet and innocent at birth.
@@ -87,11 +87,9 @@ We seek to train the heart, not just behavior. God wants the heart, He wants a r
 * Mark 7:21  “…from within, out of men’s hearts, come evil thoughts, sexual immorality, theft, murder, adultery, greed, malice, deceit, lewdness, envy, slander, arrogance and folly.”  The heart determines behavior.
 * Shorter Catechism says, “The chief end of man is to glorify God and to enjoy Him forever.” When we make that the ultimate goal of our parenting, it changes our parenting theory and techniques. If we teach them to use their abilities, aptitudes, talents and intelligence to make their lives better, without reference to God, we turn them away from God. Examples: “We pander to their desires and wishes. We teach them to find their soul’s delight in going places and doing things. We attempt to satisfy their lust for excitement. We fill their young lives with distractions from God. We provide material things and take delight in their delight in possessions. Then we hope that somewhere along down the line they will see that a life worth living is found only in knowing and serving God…We are training them in the idolatry of materialism…No wonder we lose our kids. We lose them because we fail to think clearly about man’s chief end, to glorify God and enjoy Him forever…therefore, your objective in every context must be to set a biblical world-view before your children.” (Tripp, p. 47-48)
 
-> “Each day of our lives we make deposits in the memory banks of our children.”
-> - Charles R. Swindoll
+> “Each day of our lives we make deposits in the memory banks of our children.”  Charles R. Swindoll
 
-> “It's not only children who grow. Parents do too. As much as we watch to see what our children do with their lives, they are watching us to see what we do with ours. I can't tell my children to reach for the sun. All I can do is reach for it myself.”
-> - Joyce Maynard
+> “It's not only children who grow. Parents do too. As much as we watch to see what our children do with their lives, they are watching us to see what we do with ours. I can't tell my children to reach for the sun. All I can do is reach for it myself.”  Joyce Maynard
 
 Hopefully, the greatest desire of our hearts as parents is that our child be saved. We cannot save our children, but we can present God to them so that they can see Him for who He is and allow God to work on them. Good parenting only happens by the grace of God. We are not adequate to be a father as the Good Father is to be our Father. We are sinful. We make bad mistakes. But God can overcome these and cause our children to be great, believing people. We do not seek to brainwash our kids. We have 2 choices: show them the God of the Bible or don’t. Which makes the most sense?
 
@@ -101,11 +99,9 @@ From a behavioral perspective, our desire is not so much to control our children
 
 Parenting is probably our greatest role in life. If we bring other beings into this world, we bear some responsibility for their outcome. Parenting is full-time, 100%. It is tiring, frustrating, hard work. It will stretch and strain your marriage. It will bring some of your greatest struggles in life but also some of the greatest blessings.
 
-> “Life affords no greater responsibility, no greater privilege, than the raising of the next generation.”
-> - C. Everet Koop, M.D.
+> “Life affords no greater responsibility, no greater privilege, than the raising of the next generation.”  C. Everett Koop, M.D.
 
-> "If you bungle raising your children, I don't think whatever else you do well matters very much."
-> — Jacqueline Kennedy Onassis
+> "If you bungle raising your children, I don't think whatever else you do well matters very much."  Jacqueline Kennedy Onassis
 
 
 ### Parenting Extremes:
