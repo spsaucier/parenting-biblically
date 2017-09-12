@@ -1,4 +1,4 @@
----
+----
 title: Basic Principles
 url: basic-principles
 description: Fundamentals to build upon
@@ -34,8 +34,7 @@ enduring forever.
 and altogether righteous.
 <cite>Ps 19:7-9 - NIV</cite>
 
-**This week’s principle**: There is not one principle but several.  Sorry if you’re OCD.  Be flexible.   (Maybe that should be the principle: be flexible…)
-
+**This week’s principle**: There is not one principle but several.  
 Some basic biblical principles:
 * **We are to teach & train our children:**
     > Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up.
@@ -58,7 +57,7 @@ Some basic biblical principles:
     > He too walked in the ways of the house of Ahab, for his mother encouraged him in doing wrong.
     <cite>2 Chron 22:3 - NIV</cite>
 
-* **To teach them control and respect:**
+* **Teach them control and respect:**
     > He must manage his own family well and see that his children obey him with proper respect.
     <cite>1 Tim 3:4 - NIV</cite>
 
@@ -146,6 +145,7 @@ Mandates for parents to maintain trust:
     <cite>1 Thess 5:11 - NIV</cite>
 
 * Give lots of physical contact.  You may think that this will be hard to do (especially you men), but once you have those little bundles, you will naturally be drawn to them.  Do not let this wane as they grow older—boys needs physical contact to know they are loved, and girls especially need their daddy’s hugs to satisfy the physical need for touch from men—better you than those boys!  If you do not fill the need, someone else will.
+* Trust and Responsibility: The more your child earns your trust, the more responsibility they may be given.
 
     > “You may be deceived if you trust too much, but you will live in torment if you don't trust enough.”
     <cite>--- Frank Crane</cite>
