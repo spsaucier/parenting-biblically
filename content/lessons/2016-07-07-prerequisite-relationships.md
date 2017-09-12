@@ -152,11 +152,12 @@ The crowning achievement of creation was holy marriage.  Our marriages mirror th
 3.  Any deviation from the biblical marriage has potentially severe effects on the family.  As the most basic unit of social man, marriage must be maintained — and healthy — for the family to work properly.
 
     The marriage relationship is the priority relationship in the family.  (Dangers: Wives over-involved with children; men more interested in work or others; either or both serving, even in good things, at the expense of the marriage & family.)  
+    Priorities: 1. God  2. Marriage  3. Family
 
     > But you say, “Why does he not? [accept my offering to the Lord]” Because the Lord was witness between you and the wife of your youth, to whom you have been faithless, though she is your companion and your wife by covenant. Did he not make them one, with a portion of the Spirit in their union?  And what was the one God seeking?  Godly offspring. So guard yourselves in your spirit, and let none of you be faithless to the wife of your youth. 16 “For the man who does not love his wife but divorces her,  says the Lord, the God of Israel, covers  his garment with violence, says the Lord of hosts. So guard yourselves in your spirit, and do not be faithless.”
     <cite>Mal 2:14-16</cite>
-
-    > “All married couples should learn the art of battle as they should learn the art of making love. Good battle is objective and honest--never vicious or cruel. Good battle is healthy and constructive, and brings to a marriage the principle of equal partnership.”
+ 	
+     > “All married couples should learn the art of battle as they should learn the art of making love. Good battle is objective and honest--never vicious or cruel. Good battle is healthy and constructive, and brings to a marriage the principle of equal partnership.”
     <cite>--- Ann Landers Says Truth Is Stranger..., 1968</cite>
 
     > “The goal in marriage is not to think alike, but to think together.”
@@ -178,12 +179,11 @@ The crowning achievement of creation was holy marriage.  Our marriages mirror th
 > “The most important thing a father can do for his children is to love their mother.”
 <cite>--- Theodore Hesburgh</cite>
 
-
-#### Submit to one another out of reverence for Christ.
+#### Biblical Submission
+>Submit to one another out of reverence for Christ. Eph 5:21 NIV
 
 > You wives will submit to your husbands as you do to the Lord. For a husband is the head of his wife as Christ is the head of his body, the church; he gave his life to be her Savior. As the church submits to Christ, so you wives must submit to your husbands in everything.
-> And you husbands must love your wives with the same love Christ showed the church. He gave up his life for her to make her holy and clean, washed by baptism and God's word.   He did this to present her to himself as a glorious church without a spot or wrinkle or any other blemish. Instead, she will be holy and without fault. In the same way, husbands ought to love their wives as they love their own bodies. For a man is actually loving himself when he loves his wife. No one hates his own body but lovingly cares for it, just as Christ cares for his body, which is the church. And we are his body.
->
+> And you husbands must love your wives with the same love Christ showed the church. He gave up his life for her to make her holy and clean, washed by baptism and God's word.   He did this to present her to himself as a glorious church without a spot or wrinkle or any other blemish. Instead, she will be holy and without fault. In the same way, husbands ought to love their wives as they love their own bodies. For a man is actually loving himself when he loves his wife. No one hates his own body but lovingly cares for it, just as Christ cares for his body, which is the church. And we are his body. >
 > As the Scriptures say, "A man leaves his father and mother and is joined to his wife, and the two are united into one."   This is a great mystery, but it is an illustration of the way Christ and the church are one. So again I say, each man must love his wife as he loves himself, and the wife must respect her husband.
 <cite>Eph 5:21-33 - NLT</cite>
 
@@ -203,7 +203,7 @@ Child-centered parenting, where parents focus on their children more than their 
 4. It often comes perilously close to idolatry.  Children begin to think that they are to be worshiped instead of God Himself.  Parents also lose perspective and do not remain biblical in their approach.
 5. The self-centered attitude cultivated persists well into the adult years.
 
-Make conscious efforts to maintain the marriage relationship before, during, and after child-raising.  We strongly suggest repeated, active investment into the marriage in order to remain happy, raise happy children, and please God.
+Make conscious efforts to maintain the marriage relationship before, during, and after child-raising.  We strongly suggest repeated, active investment into the marriage in order to remain happy, raise happy children, and please God. (Regular date nights, marriage retreats?, overnights away occasionally, communicate and relate to each other regularly during the week)
 
 <hr>
 
@@ -217,6 +217,7 @@ Make conscious efforts to maintain the marriage relationship before, during, and
 6. When you are angry at your spouse, what is your usual reaction or behavior then?
 7. Do you remember your parents having conflict when you were young?  Were you worried about them splitting up?  How did that make you feel?
 8. How & why does child-centered parenting potentially yield poor results?
+9. How do you resolve issues about which you do not agree?
 
 ## Homework:  
 
@@ -239,24 +240,6 @@ Make conscious efforts to maintain the marriage relationship before, during, and
 
 * **Without Love**---she reacts without respect
 * **Without Respect**---he reacts without love
-
-#### About Guys:
-
-* **C** onquest: his desire to work and achieve
-* **H** ierarchy: his desire to protect and provide
-* **A** uthority: his desire to serve and to lead
-* **I** nsight: his desire to analyze and counsel
-* **R** elationship his desire for shoulder-to-shoulder friendship
-* **S** exuality: his desire for sexual intimacy
-
-#### About Girls:
-
-* **C** loseness: “Look at me!”, physical affection
-* **O** penness: her desire for intimate communication
-* **U** nderstanding: her desire for listening without solving
-* **P** eacemaking: her desire for reconciliation, “I’m sorry”
-* **L** oyalty: her desire that he’s a one-woman man, won’t leave
-* **E** steem: her desire to be honored and cherished
 
 ### The Rewarded Cycle:
 
