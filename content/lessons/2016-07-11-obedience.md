@@ -1,4 +1,4 @@
-----
+---
 title: Obedience
 url: obedience
 description: Giving & obeying instruction

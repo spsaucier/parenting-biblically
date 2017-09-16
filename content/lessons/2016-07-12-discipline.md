@@ -1,4 +1,4 @@
-----
+---
 title: Consequences, Discipline, Chastisement
 url: discipline
 description: Instruction, encouragement, & correction
