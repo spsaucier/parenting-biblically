@@ -1,4 +1,4 @@
----
+----
 title: Advanced Discipline Issues
 url: advanced-discipline-issues
 description: Expectations of age, reinforcement, & childish behavior
@@ -48,10 +48,6 @@ Children need to be in age-appropriate environments meaning they are allowed cho
 
 As the child grows, he is allowed more freedoms—freedom to chose how to spend his time, what to wear, what to eat (at times), whether he can go next door or down the street or to the next neighborhood.
 
-Parenting that allows freedom outside the age range can be harmful in many ways.
-1.	**Freedoms > self-control** = Developmental confusion, potentially dangerous choices
-2.	**Freedoms < self-control** = Developmental frustration, lack of initiative
-3.	**Freedoms = Self-control** = *Developmental harmony*
 
 As each child develops emotionally and physically at different rates, your child may be more or less mature than your neighbor, and their freedoms may be different, too.  Raising children biblically, we have found, typically makes them more mature emotionally than children raised by our culture.
 
