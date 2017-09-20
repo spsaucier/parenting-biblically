@@ -8,6 +8,7 @@ layout: lesson.html
 date: 2016-07-16
 draft: false
 previous: appeals-family-building
+next: additional-wisdom
 ---
 
 While there are very few biblical guidelines about child-raising regarding eating, sleeping, play, etc., we thought that it might be helpful just to hear how some of us did things so you can try what you think might also work for you.  This is certainly not complete but gives you ideas to start you on your way.
