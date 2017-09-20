@@ -1,4 +1,4 @@
-----
+---
 title: Advanced Discipline Issues
 url: advanced-discipline-issues
 description: Expectations of age, reinforcement, & childish behavior
