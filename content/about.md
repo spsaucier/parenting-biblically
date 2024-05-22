@@ -12,15 +12,19 @@ permalink: true
 </header>
 
 ### Inspiration
+
 The authors of this study have been teaching biblical parenting to parents and couples for many years now. This site is a new way to share that teaching with more people who can find it helpful.
 
 ### Sources
+
 This course's material is based on:
-- *The Bible*
-- *Growing Kids God’s Way* by Gary & Anne Marie Ezzo
-- *Shepherding a Child’s Heart* by Ted Tripp
-- *The Key to Your Child’s Heart* by Gary Smalley
-- *Dare to Discipline* & *Bringing Up Boys* by James Dobson
+
+- _The Bible_
+- _Growing Kids God’s Way_ by Gary & Anne Marie Ezzo
+- _Shepherding a Child’s Heart_ by Ted Tripp
+- _The Key to Your Child’s Heart_ by Gary Smalley
+- _Dare to Discipline_ & _Bringing Up Boys_ by James Dobson
 
 ### The Authors
-The lessons on Parenting Biblically were compiled by Frank and Elayne Saucier, who are medical professionals and parents in the Southeastern USA. They are dedicated to following scripture wherever it leads, and they have four grown-up children, one of whom created this site based on their study notes.
+
+The lessons on Parenting Biblically were compiled by Frank and Elayne Saucier, who are medical professionals and parents in the Southeastern USA. They are dedicated to following scripture wherever it leads, and they have four adult children, one of whom created this site based on their study notes.
