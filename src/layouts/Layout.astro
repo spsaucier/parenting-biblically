@@ -2,6 +2,13 @@
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import "../styles/app.scss";
+console.log(Astro.props);
+const pageTitle = Astro.props.content?.title
+  ? `${Astro.props.content.title} | Parenting Biblically`
+  : "Parenting Biblically";
+const pageDescription =
+  Astro.props.content?.description ||
+  "A free course for Christian parents, based on the Bible";
 ---
 
 <!doctype html>
@@ -10,14 +17,10 @@ import "../styles/app.scss";
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
 
-    <title><slot name="title" /></title>
-    <meta name="description" content="<slot name='description' />" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDescription} />
+    <link rel="icon" href="/favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-    <link
-      href="https://fonts.googleapis.com/css?family=Domine"
-      rel="stylesheet"
-    />
   </head>
   <body data-function="<slot name='function' />">
     <!--[if lt IE 8]>
@@ -35,14 +38,32 @@ import "../styles/app.scss";
     <script>
       var refTagger = {
         settings: {
-          bibleVersion: "ESV",
+          bibleReader: "bible.faithlife",
+          bibleVersion: "HCSB",
+          socialSharing: ["twitter", "facebook", "google"],
+          customStyle: {
+            heading: {
+              backgroundColor: "#000000",
+              color: "#000000",
+            },
+            body: {
+              color: "#000000",
+            },
+          },
         },
       };
       (function (d, t) {
+        var n = d.querySelector("[nonce]");
+        // @ts-ignore
+        refTagger.settings.nonce = n && (n.nonce || n.getAttribute("nonce"));
         var g = d.createElement(t),
           s = d.getElementsByTagName(t)[0];
-        "src" in g ? (g.src = "//api.reftagger.com/v2/RefTagger.js") : null;
-        s.parentNode?.insertBefore(g, s);
+        // @ts-ignore
+        g.src = "https://api.reftagger.com/v2/RefTagger.js";
+        // @ts-ignore
+        g.nonce = refTagger.settings.nonce;
+        // @ts-ignore
+        s.parentNode.insertBefore(g, s);
       })(document, "script");
     </script>
     <slot name="scripts" />

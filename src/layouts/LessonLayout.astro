@@ -12,9 +12,10 @@ const next =
   currentPostIndex < lessons.length - 1
     ? lessons[currentPostIndex + 1] || null
     : null;
+const props = Astro.props;
 ---
 
-<DefaultLayout>
+<DefaultLayout {...props}>
   <main>
     <div class="lesson-nav">
       {
