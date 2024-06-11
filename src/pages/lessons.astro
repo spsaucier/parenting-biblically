@@ -1,0 +1,24 @@
+---
+import DefaultLayout from "../layouts/Layout.astro";
+
+const lessons = await Astro.glob("../pages/lessons/*.md");
+---
+
+<DefaultLayout title="Lessons">
+  <main>
+    <h1>Lessons</h1>
+
+    <ol class="lessons-list">
+      {
+        lessons.map((lesson) => (
+          <li>
+            <a href={`${lesson.url}/`} rel="bookmark">
+              <h3>{lesson.frontmatter.title}</h3>
+              <p>{lesson.frontmatter.description}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ol>
+  </main>
+</DefaultLayout>

@@ -1,0 +1,27 @@
+---
+import DefaultLayout from "./Layout.astro";
+
+// Fetch the list of lessons
+const lessons = await Astro.glob("../pages/lessons/*.md");
+---
+
+<DefaultLayout>
+  <main>
+    <slot />
+
+    <hr />
+    <h2 class="tac light">Course Lessons:</h2>
+    <ol class="lessons-list">
+      {
+        lessons.map((lesson) => (
+          <li>
+            <a href={`${lesson.url}/`} rel="bookmark">
+              <h3>{lesson.frontmatter.title}</h3>
+              <p>{lesson.frontmatter.description}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ol>
+  </main>
+</DefaultLayout>

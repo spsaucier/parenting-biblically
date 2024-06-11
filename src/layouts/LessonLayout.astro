@@ -1,0 +1,67 @@
+---
+import DefaultLayout from "./Layout.astro";
+
+const lessons = await Astro.glob("../pages/lessons/*.md");
+const currentPostIndex = lessons.findIndex((lesson) => {
+  return Astro.url.pathname.includes(lesson.url || "");
+});
+const currentPost = lessons[currentPostIndex];
+const previous =
+  currentPostIndex > 0 ? lessons[currentPostIndex - 1] || null : null;
+const next =
+  currentPostIndex < lessons.length - 1
+    ? lessons[currentPostIndex + 1] || null
+    : null;
+---
+
+<DefaultLayout>
+  <main>
+    <div class="lesson-nav">
+      {
+        previous ? (
+          <a class="prev" href={previous.url}>
+            &larr; {previous.frontmatter.title}
+          </a>
+        ) : (
+          <a class="prev" href="/lessons">
+            &larr; All Lessons
+          </a>
+        )
+      }
+      {
+        next && (
+          <a class="next right" href={next.url}>
+            {next.frontmatter.title} &rarr;
+          </a>
+        )
+      }
+    </div>
+
+    <header class="tac">
+      <h1>{currentPost.frontmatter.title}</h1>
+      <p class="attention-grabber">{currentPost.frontmatter.description}</p>
+    </header>
+    <hr />
+
+    <slot />
+
+    <hr />
+
+    <div class="lesson-nav">
+      {
+        previous && (
+          <a class="prev" href={previous.url}>
+            &larr; {previous.frontmatter.title}
+          </a>
+        )
+      }
+      {
+        next && (
+          <a class="next right" href={next.url}>
+            {next.frontmatter.title} &rarr;
+          </a>
+        )
+      }
+    </div>
+  </main>
+</DefaultLayout>
